@@ -1,4 +1,4 @@
-# Pentesing-Roadmap
+# Hacker-Roadmap
 
 A comprehensive strategy for achieving certification as a Hacker/Pentester.
 
