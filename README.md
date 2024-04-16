@@ -21,7 +21,7 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
     - Common hacking tools and methodologies
 - **Explanation:** TryHackMe offers beginner-friendly content that covers essential topics, making it an ideal starting point for those new to hacking.
 
-#### Step 2: Enroll in Burp Suite Academy Courses
+#### Step 2: Enroll in Burp Suite Academy
 - **Objective:** Deepen your understanding of web pentesting techniques and tools.
 - **Actions:**
   - Explore the courses available on Burp Suite Academy.
@@ -48,3 +48,5 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
   - Follow security blogs, podcasts, and YouTube channels to keep abreast of new developments and insights.
   - Regularly challenge yourself with new hacking tasks, puzzles, and CTF (Capture The Flag) competitions.
 - **Explanation:** Hacking is a dynamic field, and continuous learning is essential to stay relevant and proficient. By actively engaging with the hacking community and exploring new challenges, you'll continue to refine your skills and expand your knowledge base.
+
+#### Step 5: CTF / Bug Bounty
