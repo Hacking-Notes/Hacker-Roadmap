@@ -8,9 +8,8 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 - Roadmap for Certification Seekers
 - Roadmap for Bachelor's Degree Pursuers
 
-
-## Roadmap for Hobbyist Hackers
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
+## Roadmap for Hobbyist Hackers
 
 #### Step 1: Learn the Basics on TryHackMe
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
