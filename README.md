@@ -15,7 +15,7 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
   - [ ] Sign up for a TryHackMe account.
-  - [ ] Complete introductory rooms and pathways to learn about topics such as:
+  - Complete introductory rooms and pathways to learn about topics such as:
     - [ ] Basic Linux commands
     - [ ] Networking fundamentals
     - [ ] Common hacking tools and methodologies
