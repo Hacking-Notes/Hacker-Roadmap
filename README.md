@@ -8,6 +8,12 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 - Roadmap for Certification Seekers
 - Roadmap for Bachelor's Degree Pursuers
 
+<p float="left">
+  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ebdf0354-c9ac-43b2-9841-9a691186a842" width="33%" />
+  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/83daa27c-4227-45f3-8df2-8b5f96d8279d" width="33%" />
+  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/779ad488-ad1e-479c-85f4-0d31840e5590" width="33%" />
+</p>
+
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
 ## Roadmap for Hobbyist Hackers
 
