@@ -8,10 +8,16 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 - Roadmap for Certification Seekers
 - Roadmap for Bachelor's Degree Pursuers
 
-<p float="left">
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/37e5ae2e-1ff8-45ad-9e6b-e139bde06117" width="32%" />
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/2ba89f1e-284a-4617-9a9b-9859a189111c" width="32%" />
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e1534bde-51d9-42af-af63-e2ba133bdad0" width="32%" />
+<p float="center">
+  <a href="URL_of_first_image">
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="32%" />
+  </a>
+  <a href="URL_of_second_image">
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/220e1644-421d-4476-857d-3d814103fcfc" width="32%" />
+  </a>
+  <a href="URL_of_third_image">
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="32%" />
+  </a>
 </p>
 
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
