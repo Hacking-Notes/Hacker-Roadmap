@@ -23,17 +23,17 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
 ## Roadmap for Hobbyist Hackers
 
-#### Step 1: Learn the Basics on TryHackMe
+#### Step 1: Learn the Basics on [TryHackMe](https://tryhackme.com)
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
-  - [ ] Sign up for a TryHackMe account.
+  - [ ] Sign up for a [TryHackMe account](https://tryhackme.com/signup).
   - Complete introductory rooms and pathways to learn about topics such as:
     - [ ] Basic Linux commands
     - [ ] Networking fundamentals
     - [ ] Common hacking tools and methodologies
 - **Explanation:** TryHackMe offers beginner-friendly content that covers essential topics, making it an ideal starting point for those new to hacking.
 
-#### Step 2: Enroll in Burp Suite Academy
+#### Step 2: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
 - **Objective:** Deepen your understanding of web pentesting techniques and tools.
 - **Actions:**
   - [ ] Explore the courses available on Burp Suite Academy.
