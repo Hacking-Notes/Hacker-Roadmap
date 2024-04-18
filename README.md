@@ -23,16 +23,16 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
 ## Roadmap for Hobbyist Hackers
 
-#### Step 1: Learn the Basics on [TryHackMe](https://tryhackme.com)
+#### Step 1: Learn the Basics on [TryHackMe](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d)
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
-  - [ ] Sign up for a [TryHackMe account](https://tryhackme.com/signup).
+  - [ ] Sign up for a [TryHackMe account](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d).
   - Complete introductory rooms and pathways to learn about topics such as:
-    - [ ] [The complete beginner path](https://tryhackme.com/path/outline/beginner)
-    - [ ] [Introduction to Cyber Security](https://tryhackme.com/path/outline/introtocyber)
-    - [ ] [Webs Fondamentals](https://tryhackme.com/path/outline/web)
-    - [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming)
-    - [ ] [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester)
+    - [ ] [The complete beginner path](https://tryhackme.com/path/outline/beginner?referrer=630a8d48aa25650060a8f62d)
+    - [ ] [Introduction to Cyber Security](https://tryhackme.com/path/outline/introtocyber?referrer=630a8d48aa25650060a8f62d)
+    - [ ] [Webs Fondamentals](https://tryhackme.com/path/outline/web?referrer=630a8d48aa25650060a8f62d)
+    - [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming?referrer=630a8d48aa25650060a8f62d)
+    - [ ] [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester?referrer=630a8d48aa25650060a8f62d)
 - **Explanation:** TryHackMe offers beginner-friendly content that covers essential topics, making it an ideal starting point for those new to hacking.
 
 #### Step 2: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
@@ -48,7 +48,7 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 #### Step 3: Practice Hands-On Challenges on Hack The Box (More Advance)
 - **Objective:** Gain practical experience by solving real-world hacking challenges in an unguided environment.
 - **Actions:**
-  - [ ] Register on Hack The Box platform.
+  - [ ] Register on [Hack The Box platform](https://app.hackthebox.com/invite).
   - [ ] Attempt beginner-friendly machines to apply the knowledge gained from TryHackMe.
   - [ ] Progress to more challenging machines as skills improve.
 - **Explanation:** Hack The Box provides a platform for honing your skills through hands-on experience with realistic scenarios. Unlike TryHackMe, it doesn't offer guided pathways, which encourages independent problem-solving and critical thinking.
