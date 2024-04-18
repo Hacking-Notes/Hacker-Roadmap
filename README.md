@@ -89,10 +89,10 @@ A boat load of certification are offer but here are a few that can help you kick
 - Pentest+
 - OSCP (Relevent Yes and No)
 - CEH
-- 
+- tcm-sec.com
 
 
 <a name="Degree-Pursuers"></a>
 ## Roadmap for Degree Pursuers
 
-WGU BSCSIA
+WGU BSCSIA & MSCSIA
