@@ -5,17 +5,17 @@ A comprehensive strategy for achieving certification as a Hacker/Pentester.
 To begin, we must establish some key factors. Are you aiming to obtain a certification or a Bachelor's degree in this field, or are you pursuing hacking purely as a hobby? This distinction will influence the specific steps you need to take.
 
 - Roadmap for [Hobbyist Hackers](#Roadmap-for-Hobbyist-Hackers)
-- Roadmap for Certification Seekers
-- Roadmap for Bachelor's Degree Pursuers
+- Roadmap for [Certification Seekers](#Certification-Seekers)
+- Roadmap for [Degree Pursuers](#Degree-Pursuers)
 
 <p float="center">
-  <a href="URL_of_first_image">
+  <a href="#Roadmap-for-Hobbyist-Hackers">
     <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="32%" />
   </a>
-  <a href="URL_of_second_image">
+  <a href="#Certification-Seekers">
     <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/220e1644-421d-4476-857d-3d814103fcfc" width="32%" />
   </a>
-  <a href="URL_of_third_image">
+  <a href="#Degree-Pursuers">
     <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="32%" />
   </a>
 </p>
@@ -62,3 +62,31 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 - **Explanation:** Hacking is a dynamic field, and continuous learning is essential to stay relevant and proficient. By actively engaging with the hacking community and exploring new challenges, you'll continue to refine your skills and expand your knowledge base.
 
 #### Step 5: CTF / Bug Bounty
+- **Capture The Flag (CTF) Competitions:**
+  - Join online CTF platforms such as Hack The Box, OverTheWire, or picoCTF.
+  - Participate in both beginner and advanced CTF challenges to apply your knowledge and problem-solving skills.
+  - Collaborate with other participants or teams to tackle more complex challenges and learn from each other's approaches.
+  - Analyze the solutions and write-ups of challenges you couldn't solve to understand different techniques and strategies.
+
+- **Bug Bounty Programs:**
+  - [ ] Register on bug bounty platforms like HackerOne, Bugcrowd, or Synack.
+  - Browse available programs and identify those aligned with your expertise and interests, such as web application testing, mobile application testing, or network penetration testing.
+  - Ethically report security vulnerabilities you discover in the targets specified by bug bounty programs.
+  - Follow the guidelines provided by each program regarding vulnerability disclosure, severity assessment, and reward eligibility.
+  - Continuously monitor the platforms for new programs and updates, as well as feedback on your submissions.
+ 
+<a name="Certification-Seekers"></a>
+## Roadmap for Certification Seekers
+
+A boat load of certification are offer but here are a few that can help you kickstart your cyberbersecurity journee
+- A+
+- Net+
+- Sec+
+- Pentest+
+- OSCP (Relevent Yes and No)
+
+
+<a name="Degree-Pursuers"></a>
+## Roadmap for Degree Pursuers
+
+WGU BSCSIA
