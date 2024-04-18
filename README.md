@@ -20,6 +20,8 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
   </a>
 </p>
 
+<sub><em><strong>PS:</strong> While I offer this content for free, I include some referral links. They let you support the project without any downside for you. Enjoy the content and feel free to share it with your friends!</em></sub>
+
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
 ## Roadmap for Hobbyist Hackers
 
@@ -86,6 +88,8 @@ A boat load of certification are offer but here are a few that can help you kick
 - Sec+
 - Pentest+
 - OSCP (Relevent Yes and No)
+- CEH
+- 
 
 
 <a name="Degree-Pursuers"></a>
