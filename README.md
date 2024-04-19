@@ -96,3 +96,9 @@ A boat load of certification are offer but here are a few that can help you kick
 ## Roadmap for Degree Pursuers
 
 WGU BSCSIA & MSCSIA
+
+---
+
+  <a href="https://discord.com">
+  <img width="300" src="https://github.com/Hacking-Notes/Hacking-Notes/assets/118412415/5f34c47e-8f9e-40ef-885d-91ee9a6c5989" alt="gif">
+  </a>
