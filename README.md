@@ -82,15 +82,51 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
 
-A boat load of certification are offer but here are a few that can help you kickstart your cyberbersecurity journee
-- A+
-- Net+
-- Sec+
-- Pentest+
-- OSCP (Relevent Yes and No)
-- CEH
-- tcm-sec.com
+Certifications in cybersecurity and hacking provide structured learning paths and validate skills, ranging from foundational IT knowledge to advanced penetration testing and defensive strategies. They offer credibility within the industry and demonstrate practical expertise, enhancing job opportunities and earning potential. However, they should be complemented by practical experience and continuous learning to stay updated in this rapidly evolving field.
 
+#### 1. **Start with Basic IT Skills (A+):**
+   - CompTIA A+ Certification: This certification covers foundational IT skills, including hardware, software, networking, and troubleshooting.
+     - [ ] Purchase Comptia A+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=a%2B)
+     - [ ] Study for Comptia A+
+       - Learning ressource
+         - Professor messor
+     - [ ] Pass the exam
+
+#### 2. **Linux Fundamentals (Linux Essential):**
+   - Linux Essentials (LPI): Gain essential knowledge of Linux operating system fundamentals, commands, and basic administration.
+     - [ ] Purchase LPI Linux Essential voucher  ---> [LPI Linux Essential Website](https://us.lpimarketplace.com/shop/linux-essentials)
+     - [ ] Study for LPI Linux Essential
+       - Learning ressource
+         - Professor messor
+     - [ ] Pass the exam
+
+#### 3. **Build Networking Knowledge (Network+) :**
+   - CompTIA Network+ Certification: Focuses on networking concepts, infrastructure, operations, and security.
+      - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=network%2B)
+      - [ ] Study for Comptia Network+
+     - Learning ressource
+       - Professor messor
+     - [ ] Pass the exam
+
+#### 4. **Learn Cybersecurity Fundamentals (Security+):**
+   - Attain CompTIA Security+ Certification: Provides essential knowledge in network security, compliance, threats, and vulnerabilities.
+     - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=security%2B)
+     - [ ] Study for Comptia Security+
+     - Learning ressource
+       - Professor messor
+     - [ ] Pass the exam
+
+#### 5. **Specialize in Penetration Testing (Pentest+):**
+   - Pursue CompTIA PenTest+ Certification: Focuses on penetration testing and vulnerability assessment skills, essential for offensive security roles.
+
+#### 6. **Enhance Cyber Defense Skills (CySa+):**
+   - Obtain CompTIA Cybersecurity Analyst (CySA+) Certification: Develop skills in threat detection, analysis, and response.
+
+#### 7. **Advanced Techniques and Methodologies:**
+   - Explore tcm-sec.com (The Cyber Mentor): Access online resources, courses, and labs offered by TCM to deepen understanding of offensive and defensive cybersecurity techniques.
+
+#### 8. **Hands-On Practical Experience (OSCP):**
+   - Consider Offensive Security Certified Professional (OSCP): While not a traditional certification, OSCP provides practical penetration testing skills through real-world challenges and labs.
 
 <a name="Degree-Pursuers"></a>
 ## Roadmap for Degree Pursuers
