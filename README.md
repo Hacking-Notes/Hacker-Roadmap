@@ -108,7 +108,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Purchase Comptia A+ voucher (2X, core 1 & core 2)  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=a%2B)
      - [ ] Study for Comptia A+ core 1
        - Learning ressource
-         - [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
+         - Studing: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
      - [ ] Pass Exame (A+ Core 1)
      - [ ] Study for Comptia A+ core 2
        - Learning ressource
@@ -121,7 +121,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Purchase LPI Linux Essential voucher  ---> [LPI Linux Essential Website](https://us.lpimarketplace.com/shop/linux-essentials)
      - [ ] Study for LPI Linux Essential
        - Learning ressource
-         - Professor Messer
+         - Studing: Professor Messer
      - [ ] Pass the exam
 
 #### 3. **Build Networking Knowledge (Network+) :**
@@ -129,7 +129,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
       - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=network%2B)
       - [ ] Study for Comptia Network+
      - Learning ressource
-       - Professor Messer
+       - Studing: Professor Messer
      - [ ] Pass the exam
 
 #### 4. **Learn Cybersecurity Fundamentals (Security+):**
@@ -137,7 +137,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=security%2B)
      - [ ] Study for Comptia Security+
      - Learning ressource
-       - Professor Messer
+       - Studing: Professor Messer
      - [ ] Pass the exam
 
 #### 5. **Specialize in Penetration Testing (Pentest+):**
