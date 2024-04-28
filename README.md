@@ -108,35 +108,36 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        - Learning ressource
          - Studing: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
      - [ ] Pass Exame (A+ Core 1)
-     - [ ] Study for Comptia A+ core 2
+
+     - [ ] Successfully complete the Exam (A+ Core 1)
        - Learning ressource
          - Studing: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
          - Practice Exam: 
-     - [ ] Pass Exame (A+ Core 2)
+     - [ ] Successfully complete the Exam (A+ Core 2)
 
 #### 2. **Linux Fundamentals (Linux Essential):**
    - Linux Essentials (LPI): Gain essential knowledge of Linux operating system fundamentals, commands, and basic administration.
      - [ ] Purchase LPI Linux Essential voucher  ---> [LPI Linux Essential Website](https://us.lpimarketplace.com/shop/linux-essentials)
      - [ ] Study for LPI Linux Essential
        - Learning ressource
-         - Studing: Professor Messer
-     - [ ] Pass the exam
+         - Studing: [Shawn Powers](https://www.youtube.com/watch?v=skTShEHyXfo&list=PL78ppT-_wOmvlYSfyiLvkrsZTdQJ7A24L)
+     - [ ] Successfully complete the Exam
 
 #### 3. **Build Networking Knowledge (Network+) :**
    - CompTIA Network+ Certification: Focuses on networking concepts, infrastructure, operations, and security.
       - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=network%2B)
       - [ ] Study for Comptia Network+
      - Learning ressource
-       - Studing: Professor Messer
-     - [ ] Pass the exam
+       - Studing: [Professor Messer](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
+     - [ ] Successfully complete the Exam
 
 #### 4. **Learn Cybersecurity Fundamentals (Security+):**
    - Attain CompTIA Security+ Certification: Provides essential knowledge in network security, compliance, threats, and vulnerabilities.
      - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=security%2B)
      - [ ] Study for Comptia Security+
      - Learning ressource
-       - Studing: Professor Messer
-     - [ ] Pass the exam
+       - Studing: [Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
+     - [ ] Successfully complete the Exam
 
 #### 5. **Specialize in Penetration Testing (Pentest+):**
    - Pursue CompTIA PenTest+ Certification: Focuses on penetration testing and vulnerability assessment skills, essential for offensive security roles.
@@ -144,7 +145,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for Comptia Pentest+
      - Learning ressource
        - Studying: [ACI Learning](https://www.acilearning.com/products/itpro/)
-     - [ ] Pass the exam
+     - [ ] Successfully complete the Exam
 
 #### 6. **Enhance Cyber Defense Skills (CySa+):**
    - Obtain CompTIA Cybersecurity Analyst (CySA+) Certification: Develop skills in threat detection, analysis, and response.
@@ -153,7 +154,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - Learning ressource
        -  Studying: [Certify Breakfast (Youtube)](https://www.youtube.com/watch?v=IGihuL5clDs&list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx)
        -  Exam Practice: [Google Play (Phone)](https://play.google.com/store/apps/details?id=com.sima.comptiacysa&hl=en&gl=US)
-     - [ ] Pass the exam
+     - [ ] Successfully complete the Exam
 
 #### 7. **Advanced Techniques and Methodologies:**
    - Explore tcm-sec.com (The Cyber Mentor): Access online resources, courses, and labs offered by TCM to deepen understanding of offensive and defensive cybersecurity techniques.
