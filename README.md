@@ -24,6 +24,10 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 
 ## Access My Additional Hacking Resources
 
+<a href="https://hacking-notes.com">
+  <img src="https://github.com/Hacking-Notes/RedTeam/assets/118412415/d71082fb-15f8-4950-b0ec-2e73c65a71fd" alt="Hacking-Notes">
+</a>
+
 Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://github.com/Hacking-Notes/Redteam">RedTeam Notes</a>
 
 Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://github.com/Hacking-Notes/Blueteam">BlueTeam Notes</a>
