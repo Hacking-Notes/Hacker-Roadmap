@@ -25,6 +25,8 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 <a name="Roadmap-for-Hobbyist-Hackers"></a>
 ## Roadmap for Hobbyist Hackers
 
+![bigh](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0a9690ee-44a3-45b0-8e56-88d5127e79f9)
+
 #### Step 1: Learn the Basics on [TryHackMe](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d)
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
@@ -55,8 +57,6 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
   - [ ] Progress to more challenging machines as skills improve.
 - **Explanation:** Hack The Box provides a platform for honing your skills through hands-on experience with realistic scenarios. Unlike TryHackMe, it doesn't offer guided pathways, which encourages independent problem-solving and critical thinking.
 
-
-
 #### Step 4: Continuously Expand Knowledge and Skills
 - **Objective:** Stay updated with the latest trends, techniques, and tools in the field of hacking.
 - **Actions:**
@@ -81,6 +81,8 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
  
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
+
+![bigc](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/82cae569-c9f0-49ab-8ea2-0d951d0da40b)
 
 Certifications in cybersecurity and hacking provide structured learning paths and validate skills, ranging from foundational IT knowledge to advanced penetration testing and defensive strategies. They offer credibility within the industry and demonstrate practical expertise, enhancing job opportunities and earning potential. However, they should be complemented by practical experience and continuous learning to stay updated in this rapidly evolving field.
 
@@ -146,6 +148,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 <a name="Degree-Pursuers"></a>
 ## Roadmap for Degree Pursuers
+
+![bigd](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/96f68076-e6e8-42b4-b6cd-fe392dbc4791)
 
 WGU BSCSIA & MSCSIA
 
