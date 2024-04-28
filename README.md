@@ -42,6 +42,8 @@ Elevate your bookmarking game with my latest Bookmark Toolkit. Engineered for et
 
 ![bigh](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f6398210-e36e-492c-95be-2a138069f05f)
 
+Are you someone who's delving into the realm of hacking as a hobby, eager to explore and gain expertise for the sheer thrill of it? If so, then the journey from being a mere novice, often referred to as a "script kiddie," to evolving into a proficient hacker can be facilitated by following the steps outlined below. These steps will direct you towards the necessary resources and knowledge that will help you hone your skills and transform you into a knowledgeable practitioner in the field of hacking.
+
 #### Step 1: Learn the Basics on [TryHackMe](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d)
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
