@@ -101,7 +101,9 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 
 Certifications in cybersecurity and hacking provide structured learning paths and validate skills, ranging from foundational IT knowledge to advanced penetration testing and defensive strategies. They offer credibility within the industry and demonstrate practical expertise, enhancing job opportunities and earning potential. However, they should be complemented by practical experience and continuous learning to stay updated in this rapidly evolving field.
 
-#### 1. **Start with Basic IT Skills (A+):**
+
+#### Start with Basic IT Skills (A+):      
+  
    - CompTIA A+ Certification: This certification covers foundational IT skills, including hardware, software, networking, and troubleshooting.
      - [ ] Purchase Comptia A+ voucher (2X, core 1 & core 2)  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=a%2B)
      - [ ] Study for Comptia A+ core 1
@@ -114,6 +116,9 @@ Certifications in cybersecurity and hacking provide structured learning paths an
          - Studing: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
          - Practice Exam: 
      - [ ] Successfully complete the Exam (A+ Core 2)
+    
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0042ad04-59a7-4cc5-965d-e6a97445efde" alt="Image" width="100" height="auto">
+
 
 #### 2. **Linux Fundamentals (Linux Essential):**
    - Linux Essentials (LPI): Gain essential knowledge of Linux operating system fundamentals, commands, and basic administration.
@@ -123,6 +128,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
          - Studing: [Shawn Powers](https://www.youtube.com/watch?v=skTShEHyXfo&list=PL78ppT-_wOmvlYSfyiLvkrsZTdQJ7A24L)
      - [ ] Successfully complete the Exam
 
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/1f17140d-f1b8-4b0d-a8f5-bcb94443ce1f" alt="Image" width="100" height="auto">
+
 #### 3. **Build Networking Knowledge (Network+) :**
    - CompTIA Network+ Certification: Focuses on networking concepts, infrastructure, operations, and security.
       - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=network%2B)
@@ -130,6 +137,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - Learning ressource
        - Studing: [Professor Messer](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
      - [ ] Successfully complete the Exam
+
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f367a3f5-6dab-45e9-8574-2183508d0342" alt="Image" width="100" height="auto">
 
 #### 4. **Learn Cybersecurity Fundamentals (Security+):**
    - Attain CompTIA Security+ Certification: Provides essential knowledge in network security, compliance, threats, and vulnerabilities.
@@ -139,6 +148,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        - Studing: [Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
      - [ ] Successfully complete the Exam
 
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/d6f7c8c5-72e5-4baa-87a2-cb84a1f01fa5" alt="Image" width="100" height="auto">
+
 #### 5. **Specialize in Penetration Testing (Pentest+):**
    - Pursue CompTIA PenTest+ Certification: Focuses on penetration testing and vulnerability assessment skills, essential for offensive security roles.
      - [ ] Purchase Comptia Pentest+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=pentest%2B)
@@ -146,6 +157,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - Learning ressource
        - Studying: [ACI Learning](https://www.acilearning.com/products/itpro/)
      - [ ] Successfully complete the Exam
+
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e8449a34-4a7d-4c8d-864a-8f07e6266109" alt="Image" width="100" height="auto">
 
 #### 6. **Enhance Cyber Defense Skills (CySa+):**
    - Obtain CompTIA Cybersecurity Analyst (CySA+) Certification: Develop skills in threat detection, analysis, and response.
@@ -155,6 +168,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        -  Studying: [Certify Breakfast (Youtube)](https://www.youtube.com/watch?v=IGihuL5clDs&list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx)
        -  Exam Practice: [Google Play (Phone)](https://play.google.com/store/apps/details?id=com.sima.comptiacysa&hl=en&gl=US)
      - [ ] Successfully complete the Exam
+
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/36c328c2-1f89-4548-b2d6-d1edb94d47bc" alt="Image" width="100" height="auto">
 
 #### 7. **Advanced Techniques and Methodologies:**
    - Explore tcm-sec.com (The Cyber Mentor): Access online resources, courses, and labs offered by TCM to deepen understanding of offensive and defensive cybersecurity techniques.
