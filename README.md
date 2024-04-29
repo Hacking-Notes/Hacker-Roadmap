@@ -113,7 +113,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 --- ---
 
-| <strong>Start with Basic IT Skills (A+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0042ad04-59a7-4cc5-965d-e6a97445efde" alt="Image" width="75" height="auto"> |
+| <strong>Start with Basic IT Skills (A+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0042ad04-59a7-4cc5-965d-e6a97445efde" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
   
    - CompTIA A+ Certification: This certification covers foundational IT skills, including hardware, software, networking, and troubleshooting.
@@ -131,7 +131,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
     
 --- ---
 
-| <strong>Linux Fundamentals (Linux Essential):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/1f17140d-f1b8-4b0d-a8f5-bcb94443ce1f" alt="Image" width="75" height="auto"> |
+| <strong>Linux Fundamentals (Linux Essential)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/1f17140d-f1b8-4b0d-a8f5-bcb94443ce1f" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - Linux Essentials (LPI): Gain essential knowledge of Linux operating system fundamentals, commands, and basic administration.
@@ -143,7 +143,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 --- ---
 
-| <strong>Build Networking Knowledge (Network+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f367a3f5-6dab-45e9-8574-2183508d0342" alt="Image" width="75" height="auto"> |
+| <strong>Build Networking Knowledge (Network+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f367a3f5-6dab-45e9-8574-2183508d0342" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - CompTIA Network+ Certification: Focuses on networking concepts, infrastructure, operations, and security.
@@ -155,10 +155,9 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 --- ---
 
-| <strong>Learn Cybersecurity Fundamentals (Security+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/d6f7c8c5-72e5-4baa-87a2-cb84a1f01fa5" alt="Image" width="75" height="auto"> |
+| <strong>Learn Cybersecurity Fundamentals (Security+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/d6f7c8c5-72e5-4baa-87a2-cb84a1f01fa5" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
-#### 4. ****
    - Attain CompTIA Security+ Certification: Provides essential knowledge in network security, compliance, threats, and vulnerabilities.
      - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=security%2B)
      - [ ] Study for Comptia Security+
@@ -168,10 +167,9 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 --- ---
 
-| <strong>Specialize in Penetration Testing (Pentest+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e8449a34-4a7d-4c8d-864a-8f07e6266109" alt="Image" width="75" height="auto"> |
+| <strong>Specialize in Penetration Testing (Pentest+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e8449a34-4a7d-4c8d-864a-8f07e6266109" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
-#### 5. **Specialize in Penetration Testing (Pentest+):**
    - Pursue CompTIA PenTest+ Certification: Focuses on penetration testing and vulnerability assessment skills, essential for offensive security roles.
      - [ ] Purchase Comptia Pentest+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=pentest%2B)
      - [ ] Study for Comptia Pentest+
@@ -181,7 +179,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 --- ---
 
-| <strong>Enhance Cyber Defense Skills (CySa+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/36c328c2-1f89-4548-b2d6-d1edb94d47bc" alt="Image" width="75" height="auto"> |
+| <strong>Enhance Cyber Defense Skills (CySa+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/36c328c2-1f89-4548-b2d6-d1edb94d47bc" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - Obtain CompTIA Cybersecurity Analyst (CySA+) Certification: Develop skills in threat detection, analysis, and response.
