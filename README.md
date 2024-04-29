@@ -4,9 +4,10 @@ A detailed plan to become proficient in hacking and penetration testing.
 
 To begin, we must establish some key factors. Are you aiming to obtain a certification or a Bachelor's degree in this field, or are you pursuing hacking purely as a hobby? This distinction will influence the specific steps you need to take.
 
-- Roadmap for [Hobbyist Hackers](#Roadmap-for-Hobbyist-Hackers)
-- Roadmap for [Certification Seekers](#Certification-Seekers)
-- Roadmap for [Degree Pursuers](#Degree-Pursuers)
+- Roadmap for [Hobbyist Hackers](#Roadmap-for-Hobbyist-Hackers)         ---> Ideal for dipping your toe into the cybersecurity world, mastering basics and honing skills
+- Roadmap for [Cyber Expressway](#Cyber-Expressway)                     ---> Begin cybersecurity journey as quickly as possible, join cybersecurity role in under 10 months
+- Roadmap for [Certification Seekers](#Certification-Seekers)           ---> Gain knowledge, invest time for deeper understanding, ideal for advancement in cybersecurity
+- Roadmap for [Degree Pursuers](#Degree-Pursuers)                       ---> Refine skills for optimal cybersecurity training, explore paths & more (GAIN CYBERSECURITY DEGREE)
 
 <p float="center">
   <a href="#Roadmap-for-Hobbyist-Hackers">
