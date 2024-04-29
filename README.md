@@ -54,6 +54,8 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
     - [ ] [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester?referrer=630a8d48aa25650060a8f62d)
 - **Explanation:** TryHackMe offers beginner-friendly content that covers essential topics, making it an ideal starting point for those new to hacking.
 
+--- ---
+
 #### Step 2: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
 - **Objective:** Deepen your understanding of web pentesting techniques and tools.
 - **Actions:**
@@ -64,6 +66,8 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
     - [ ] Advanced web exploitation techniques
 - **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
 
+--- ---
+
 #### Step 3: Practice Hands-On Challenges on Hack The Box (More Advance)
 - **Objective:** Gain practical experience by solving real-world hacking challenges in an unguided environment.
 - **Actions:**
@@ -71,6 +75,8 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
   - [ ] Attempt beginner-friendly machines to apply the knowledge gained from TryHackMe.
   - [ ] Progress to more challenging machines as skills improve.
 - **Explanation:** Hack The Box provides a platform for honing your skills through hands-on experience with realistic scenarios. Unlike TryHackMe, it doesn't offer guided pathways, which encourages independent problem-solving and critical thinking.
+
+--- ---
 
 #### Step 4: Continuously Expand Knowledge and Skills
 - **Objective:** Stay updated with the latest trends, techniques, and tools in the field of hacking.
@@ -80,12 +86,16 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
   - Regularly challenge yourself with new hacking tasks, puzzles, and CTF (Capture The Flag) competitions.
 - **Explanation:** Hacking is a dynamic field, and continuous learning is essential to stay relevant and proficient. By actively engaging with the hacking community and exploring new challenges, you'll continue to refine your skills and expand your knowledge base.
 
+--- ---
+
 #### Step 5: CTF / Bug Bounty
 - **Capture The Flag (CTF) Competitions:**
   - Join online CTF platforms such as Hack The Box, OverTheWire, or picoCTF.
   - Participate in both beginner and advanced CTF challenges to apply your knowledge and problem-solving skills.
   - Collaborate with other participants or teams to tackle more complex challenges and learn from each other's approaches.
   - Analyze the solutions and write-ups of challenges you couldn't solve to understand different techniques and strategies.
+
+--- ---
 
 - **Bug Bounty Programs:**
   - [ ] Register on bug bounty platforms like HackerOne, Bugcrowd, or Synack.
@@ -101,8 +111,10 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 
 Certifications in cybersecurity and hacking provide structured learning paths and validate skills, ranging from foundational IT knowledge to advanced penetration testing and defensive strategies. They offer credibility within the industry and demonstrate practical expertise, enhancing job opportunities and earning potential. However, they should be complemented by practical experience and continuous learning to stay updated in this rapidly evolving field.
 
+--- ---
 
-#### Start with Basic IT Skills (A+):      
+| <strong>Start with Basic IT Skills (A+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0042ad04-59a7-4cc5-965d-e6a97445efde" alt="Image" width="75" height="auto"> |
+| ------------------------------------- | ----- | 
   
    - CompTIA A+ Certification: This certification covers foundational IT skills, including hardware, software, networking, and troubleshooting.
      - [ ] Purchase Comptia A+ voucher (2X, core 1 & core 2)  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=a%2B)
@@ -117,10 +129,11 @@ Certifications in cybersecurity and hacking provide structured learning paths an
          - Practice Exam: 
      - [ ] Successfully complete the Exam (A+ Core 2)
     
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0042ad04-59a7-4cc5-965d-e6a97445efde" alt="Image" width="100" height="auto">
+--- ---
 
+| <strong>Linux Fundamentals (Linux Essential):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/1f17140d-f1b8-4b0d-a8f5-bcb94443ce1f" alt="Image" width="75" height="auto"> |
+| ------------------------------------- | ----- | 
 
-#### 2. **Linux Fundamentals (Linux Essential):**
    - Linux Essentials (LPI): Gain essential knowledge of Linux operating system fundamentals, commands, and basic administration.
      - [ ] Purchase LPI Linux Essential voucher  ---> [LPI Linux Essential Website](https://us.lpimarketplace.com/shop/linux-essentials)
      - [ ] Study for LPI Linux Essential
@@ -128,9 +141,11 @@ Certifications in cybersecurity and hacking provide structured learning paths an
          - Studing: [Shawn Powers](https://www.youtube.com/watch?v=skTShEHyXfo&list=PL78ppT-_wOmvlYSfyiLvkrsZTdQJ7A24L)
      - [ ] Successfully complete the Exam
 
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/1f17140d-f1b8-4b0d-a8f5-bcb94443ce1f" alt="Image" width="100" height="auto">
+--- ---
 
-#### 3. **Build Networking Knowledge (Network+) :**
+| <strong>Build Networking Knowledge (Network+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f367a3f5-6dab-45e9-8574-2183508d0342" alt="Image" width="75" height="auto"> |
+| ------------------------------------- | ----- | 
+
    - CompTIA Network+ Certification: Focuses on networking concepts, infrastructure, operations, and security.
       - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=network%2B)
       - [ ] Study for Comptia Network+
@@ -138,9 +153,12 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        - Studing: [Professor Messer](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
      - [ ] Successfully complete the Exam
 
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f367a3f5-6dab-45e9-8574-2183508d0342" alt="Image" width="100" height="auto">
+--- ---
 
-#### 4. **Learn Cybersecurity Fundamentals (Security+):**
+| <strong>Learn Cybersecurity Fundamentals (Security+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/d6f7c8c5-72e5-4baa-87a2-cb84a1f01fa5" alt="Image" width="75" height="auto"> |
+| ------------------------------------- | ----- | 
+
+#### 4. ****
    - Attain CompTIA Security+ Certification: Provides essential knowledge in network security, compliance, threats, and vulnerabilities.
      - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=security%2B)
      - [ ] Study for Comptia Security+
@@ -148,7 +166,10 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        - Studing: [Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
      - [ ] Successfully complete the Exam
 
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/d6f7c8c5-72e5-4baa-87a2-cb84a1f01fa5" alt="Image" width="100" height="auto">
+--- ---
+
+| <strong>Specialize in Penetration Testing (Pentest+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e8449a34-4a7d-4c8d-864a-8f07e6266109" alt="Image" width="75" height="auto"> |
+| ------------------------------------- | ----- | 
 
 #### 5. **Specialize in Penetration Testing (Pentest+):**
    - Pursue CompTIA PenTest+ Certification: Focuses on penetration testing and vulnerability assessment skills, essential for offensive security roles.
@@ -158,9 +179,11 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        - Studying: [ACI Learning](https://www.acilearning.com/products/itpro/)
      - [ ] Successfully complete the Exam
 
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e8449a34-4a7d-4c8d-864a-8f07e6266109" alt="Image" width="100" height="auto">
+--- ---
 
-#### 6. **Enhance Cyber Defense Skills (CySa+):**
+| <strong>Enhance Cyber Defense Skills (CySa+):</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/36c328c2-1f89-4548-b2d6-d1edb94d47bc" alt="Image" width="75" height="auto"> |
+| ------------------------------------- | ----- | 
+
    - Obtain CompTIA Cybersecurity Analyst (CySA+) Certification: Develop skills in threat detection, analysis, and response.
      - [ ] Purchase Comptia CySa+ voucher  ---> [Discount Website](https://getcertified4less.com/search.php?search_query=cysa%2B)
      - [ ] Study for Comptia CySa+
@@ -169,10 +192,12 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        -  Exam Practice: [Google Play (Phone)](https://play.google.com/store/apps/details?id=com.sima.comptiacysa&hl=en&gl=US)
      - [ ] Successfully complete the Exam
 
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/36c328c2-1f89-4548-b2d6-d1edb94d47bc" alt="Image" width="100" height="auto">
+--- ---
 
 #### 7. **Advanced Techniques and Methodologies:**
    - Explore tcm-sec.com (The Cyber Mentor): Access online resources, courses, and labs offered by TCM to deepen understanding of offensive and defensive cybersecurity techniques.
+
+--- ---
 
 #### 8. **Hands-On Practical Experience (OSCP):**
    - Consider Offensive Security Certified Professional (OSCP): While not a traditional certification, OSCP provides practical penetration testing skills through real-world challenges and labs.
