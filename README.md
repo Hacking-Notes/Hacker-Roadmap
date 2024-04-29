@@ -13,13 +13,16 @@ To begin, we must establish some key factors. Are you aiming to obtain a certifi
 
 <p float="center">
   <a href="#Roadmap-for-Hobbyist-Hackers">
-    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="32%" />
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="24%" />
+  </a>
+  <a href="#Cyber-Expressway">
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/7f7605e6-256e-4cb0-ab71-99d6b664840d" width="24%" />
   </a>
   <a href="#Certification-Seekers">
-    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/220e1644-421d-4476-857d-3d814103fcfc" width="32%" />
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/220e1644-421d-4476-857d-3d814103fcfc" width="24%" />
   </a>
   <a href="#Degree-Pursuers">
-    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="32%" />
+    <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="24%" />
   </a>
 </p>
 
@@ -106,7 +109,12 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
   - Ethically report security vulnerabilities you discover in the targets specified by bug bounty programs.
   - Follow the guidelines provided by each program regarding vulnerability disclosure, severity assessment, and reward eligibility.
   - Continuously monitor the platforms for new programs and updates, as well as feedback on your submissions.
- 
+
+<a name="Cyber-Expressway"></a>
+## Roadmap for Cyber Expressway
+
+![bige](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/6b058744-7c4c-47ee-b1de-ce7a261d67d5)
+
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
 
