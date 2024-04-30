@@ -117,7 +117,7 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 
 Are you seeking to quickly establish yourself in the world of Cybersecurity/Pentesting? I've crafted a rapid roadmap, inspired by Tyler Rambser, to guide you toward a job in this field within the next 10 months. Keep in mind, while there are no guarantees, these steps offer the best available information to position you at the forefront of pentesting roles.
 
-Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=IWx88uvfKbA)
+▶️ Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=IWx88uvfKbA)
 
 #### 1. **TCM Security | Practical Ethical Hacker course (About 2 months):**
 
