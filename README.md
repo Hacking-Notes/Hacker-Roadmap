@@ -117,7 +117,7 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 
 Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=IWx88uvfKbA)
 
-#### 1. **Practical Ethical Hacker course (About 2 months):**
+#### 1. **TCM Security | Practical Ethical Hacker course (About 2 months):**
 
 --- ---
 
