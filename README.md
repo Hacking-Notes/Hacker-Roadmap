@@ -117,21 +117,26 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 
 Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=IWx88uvfKbA)
 
-Step 1 ---> TCM Security PEH (practical ethical hacker course) (take about 2 months)
+#### 1. **Practical Ethical Hacker course (About 2 months):**
 
-Step 2 ---> Sign on for HTB academy (pentester pathway)
+--- ---
 
-step 3 ---> 90 days of lab access for OCSP (GET OSCP, best way to bypass HR) Gold standard (3 months)
+#### 2. **Hack the Box | Pentest pathway (About 2-3 months):**
 
-Step 4 ---> Find CVE (what will make you stand out) find vulnerability on different open source project (not has hard has you might think)
+--- ---
 
-Additionnal information: Get help with you resume and speak with a ethical hacker for free or pay what you want and give to an organisation of your choice. Simply join the discord and schedule your time
+#### 3. **OSCP | PEN-200: Penetration Testing with Kali Linux(About 3 months):**
+Best way to bypass HR and its a golden standar
+- 90 days of lab access for OCSP
 
+--- ---
 
+#### 4. **Search and Find CVE's:**
+find vulnerability on different open source project (not has hard has you might think)
 
+--- ---
 
-
-
+Bonus information: Get help with you resume and speak with a ethical hacker for free or pay what you want and give to an organisation of your choice. Simply join the discord and schedule your time
 
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
