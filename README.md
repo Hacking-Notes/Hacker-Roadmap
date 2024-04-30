@@ -115,6 +115,8 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 
 ![bige](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/6b058744-7c4c-47ee-b1de-ce7a261d67d5)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IWx88uvfKbA/0.jpg)](https://www.youtube.com/watch?v=IWx88uvfKbA)
+
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
 
