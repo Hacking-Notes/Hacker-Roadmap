@@ -120,11 +120,20 @@ Are you seeking to quickly establish yourself in the world of Cybersecurity/Pent
 ▶️ Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=IWx88uvfKbA)
 
 #### 1. **TCM Security | Practical Ethical Hacker course (About 2 months):**
-
+- [ ] Join TCM Security by completing the registration process.
+- [ ] Obtain access through a subscription plan.
+- Complete the following courses
+  - [ ] [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+  - [ ] [Practical-web-hacking](https://academy.tcm-sec.com/p/practical-web-hacking) **(OPTIONAL)** 
+    
 --- ---
 
 #### 2. **Hack the Box | Pentest pathway (About 2-3 months):**
-https://referral.hackthebox.com/mz8mcbX
+- [ ] Sign up via [Hack the Box Academy](https://referral.hackthebox.com/mz8mcbX) platform.
+- [ ] Acquire credits for course enrollment and procure a voucher.
+- Complete the following courses
+  - [ ] [Penetration Tester](https://academy.hackthebox.com/paths/jobrole)
+
 --- ---
 
 #### 3. **OSCP | PEN-200: Penetration Testing with Kali Linux(About 3 months):**
@@ -134,11 +143,12 @@ Best way to bypass HR and its a golden standar
 --- ---
 
 #### 4. **Search and Find CVE's:**
-find vulnerability on different open source project (not has hard has you might think)
+Discover vulnerabilities in various open-source projects (it's not as difficult as you might imagine).
+- [ ] View the following video [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=2VB4Zd5C8N8)
 
 --- ---
 
-Bonus information: Get help with you resume and speak with a ethical hacker for free or pay what you want and give to an organisation of your choice. Simply join the discord and schedule your time
+Additional perk: Receive assistance with your resume and engage in a conversation with an ethical hacker at no cost or contribute as you wish and donate to a charity of your choosing. Just join the [Discord server](https://discord.gg/r68ameNHrD) and arrange your appointment.
 
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
