@@ -239,15 +239,10 @@ Certifications in cybersecurity and hacking provide structured learning paths an
        -  Studying: [Certify Breakfast (Youtube)](https://www.youtube.com/watch?v=IGihuL5clDs&list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx)
        -  Exam practice: [Google Play (Phone)](https://play.google.com/store/apps/details?id=com.sima.comptiacysa&hl=en&gl=US)
      - [ ] Successfully complete the exam
-
+     - [ ] 
 --- ---
 
-#### 7. **Advanced Techniques and Methodologies:**
-   - Explore tcm-sec.com (The Cyber Mentor): Access online resources, courses, and labs offered by TCM to deepen understanding of offensive and defensive cybersecurity techniques.
-
---- ---
-
-#### 8. **Hands-On Practical Experience (OSCP):**
+#### 7. **Hands-On Practical Experience (OSCP):**
    - Consider Offensive Security Certified Professional (OSCP): While not a traditional certification, OSCP provides practical penetration testing skills through real-world challenges and labs.
 
 <a name="Degree-Pursuers"></a>
