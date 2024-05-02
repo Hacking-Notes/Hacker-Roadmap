@@ -137,8 +137,13 @@ Are you seeking to quickly establish yourself in the world of Cybersecurity/Pent
 --- ---
 
 #### 3. **OSCP | PEN-200: Penetration Testing with Kali Linux(About 3 months):**
-Best way to bypass HR and its a golden standar
-- 90 days of lab access for OCSP
+This certification serves as a gold standard in cybersecurity and often bypasses many HR screening processes.
+- [ ] Enroll in the Offensive Security website for the [PEN-200 course](https://www.offsec.com/courses/pen-200/).
+- [ ] Purchase the 90-day lab access package.
+- [ ] Study course materials and Kali Linux documentation.
+- [ ] Practice in the lab environment, exploiting vulnerabilities.
+- [ ] Prepare for the exam with thorough review and practice.
+- [ ] Schedule and take the exam.
 
 --- ---
 
