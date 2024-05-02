@@ -144,6 +144,7 @@ This certification serves as a gold standard in cybersecurity and often bypasses
 - [ ] Practice in the lab environment, exploiting vulnerabilities.
 - [ ] Prepare for the exam with thorough review and practice.
 - [ ] Schedule and take the exam.
+- [ ] Successfully complete the exam.
 
 --- ---
 
@@ -172,13 +173,11 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for Comptia A+ core 1
        - Learning ressource
          - Studing: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
-     - [ ] Pass Exame (A+ Core 1)
-
-     - [ ] Successfully complete the Exam (A+ Core 1)
+     - [ ] Successfully complete the exam (A+ Core 1)
+    
        - Learning ressource
          - Studing: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
-         - Practice Exam: 
-     - [ ] Successfully complete the Exam (A+ Core 2)
+     - [ ] Successfully complete the exam (A+ Core 2)
     
 --- ---
 
@@ -190,7 +189,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for LPI Linux Essential
        - Learning ressource
          - Studing: [Shawn Powers](https://www.youtube.com/watch?v=skTShEHyXfo&list=PL78ppT-_wOmvlYSfyiLvkrsZTdQJ7A24L)
-     - [ ] Successfully complete the Exam
+     - [ ] Successfully complete the exam
 
 --- ---
 
@@ -202,7 +201,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
       - [ ] Study for Comptia Network+
      - Learning ressource
        - Studing: [Professor Messer](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
-     - [ ] Successfully complete the Exam
+     - [ ] Successfully complete the exam
 
 --- ---
 
@@ -214,7 +213,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for Comptia Security+
      - Learning ressource
        - Studing: [Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
-     - [ ] Successfully complete the Exam
+     - [ ] Successfully complete the exam
 
 --- ---
 
@@ -226,7 +225,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for Comptia Pentest+
      - Learning ressource
        - Studying: [ACI Learning](https://www.acilearning.com/products/itpro/)
-     - [ ] Successfully complete the Exam
+     - [ ] Successfully complete the exam
 
 --- ---
 
@@ -238,8 +237,8 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for Comptia CySa+
      - Learning ressource
        -  Studying: [Certify Breakfast (Youtube)](https://www.youtube.com/watch?v=IGihuL5clDs&list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx)
-       -  Exam Practice: [Google Play (Phone)](https://play.google.com/store/apps/details?id=com.sima.comptiacysa&hl=en&gl=US)
-     - [ ] Successfully complete the Exam
+       -  Exam practice: [Google Play (Phone)](https://play.google.com/store/apps/details?id=com.sima.comptiacysa&hl=en&gl=US)
+     - [ ] Successfully complete the exam
 
 --- ---
 
