@@ -124,7 +124,7 @@ Are you seeking to quickly establish yourself in the world of Cybersecurity/Pent
 --- ---
 
 #### 2. **Hack the Box | Pentest pathway (About 2-3 months):**
-
+https://referral.hackthebox.com/mz8mcbX
 --- ---
 
 #### 3. **OSCP | PEN-200: Penetration Testing with Kali Linux(About 3 months):**
