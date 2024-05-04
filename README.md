@@ -250,7 +250,48 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 ![bigd](https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/6a86723b-7940-42d8-9f0d-284d40214822)
 
-WGU BSCSIA & MSCSIA
+There are numerous strategies available for the degree path, and the one outlined below represents my personal roadmap. It's important to consider that the most efficient strategy for achieving the degree with minimal cost involves completing the majority of the coursework outside of WGU, obtaining credits from those courses, and then enrolling when you're between 50-65% done. Assuring you to finish the degree within one term. This approach minimizes expenses and is the optimal choice in terms of both time and money.
+
+#### BSCSIA (Bachelor of Science, Cybersecurity and Information Assurance)
+- [ ] Copy the following Tracking Google Sheet
+      
+  --- BASE COURSES ---
+- Register at sophia learning and complete the following courses
+  - [ ] ENG1002 (SOPH-0030)
+  - [ ] PHIL1005 (SOPH-0065)
+  - [ ] COMM1002 (SOPH-0024)
+  - [ ] CA1001 (SOPH-0001)
+  - [ ] STAT1001 (SOPH-0005)
+  - [ ] HLTH 1010 (SOPH-0063)
+  - [ ] CS1011 (SOPH-0047)
+  - [ ] CS1101 (SOPH-0062)
+  - [ ] CS1100 (SOPH-0058)
+  - [ ] PM1001 (SOPH-0013)
+- Register at Study.com and complete the following course
+  - [ ] Political Science 102 (SDCM-0042)
+  - [ ] Biology 101L (SDCM-0188)
+  - [ ] Computer Science 108 (SDCM-0213)
+  - [ ] Computer Science 110 (SDCM-0215) 
+- Other Course (Cheapest and most Effective)
+  - [ ] CS1001 ---> Complete this with Google IT Support
+        
+  --- Certifications ---
+- Complete the following certifications (You can get more information on each certification by looking at the certification roadmap)
+  - [ ] Comptia A+
+  - [ ] LPI Lunix Essential
+  - [ ] Comptia Net+
+  - [ ] Comptia Sec+
+  - [ ] Comptia CySa+
+  - [ ] Comptia Pentest+
+ 
+- Transfer your transcripts (High school diploma, Certifications and completed courses at WGU)
+  - Need help? Join the unofficial WGU discord
+  
+- [ ] **Enroll in WGU and complete the remaining courses** 
+
+#### MSCSIA
+
+TO COME
 
 ---
 
