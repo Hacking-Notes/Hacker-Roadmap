@@ -285,7 +285,8 @@ There are numerous strategies available for the degree path, and the one outline
   - [ ] <a href="#P">Comptia Pentest+</a>
 
 --- Western Governors University (WGU) ---
-<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f2119c55-cd91-4883-8da7-40dd1b294e74" width="75" alt="WGU-Logo">
+
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f2119c55-cd91-4883-8da7-40dd1b294e74" width="175" alt="WGU-Logo">
   
 - Transfer your transcripts (High school diploma, Certifications and completed courses at WGU)
   - Need help? Join the unofficial [WGU discord](https://discord.com/invite/unwgu)
