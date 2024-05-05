@@ -164,7 +164,7 @@ Additional perk: Receive assistance with your resume and engage in a conversatio
 Certifications in cybersecurity and hacking provide structured learning paths and validate skills, ranging from foundational IT knowledge to advanced penetration testing and defensive strategies. They offer credibility within the industry and demonstrate practical expertise, enhancing job opportunities and earning potential. However, they should be complemented by practical experience and continuous learning to stay updated in this rapidly evolving field.
 
 --- ---
-
+<a name="A"></a>
 | <strong>Start with Basic IT Skills (A+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/0042ad04-59a7-4cc5-965d-e6a97445efde" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
   
@@ -180,7 +180,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Successfully complete the exam (A+ Core 2)
     
 --- ---
-
+<a name="L"></a>
 | <strong>Linux Fundamentals (Linux Essential)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/1f17140d-f1b8-4b0d-a8f5-bcb94443ce1f" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
@@ -192,7 +192,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Successfully complete the exam
 
 --- ---
-
+<a name="N"></a>
 | <strong>Build Networking Knowledge (Network+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f367a3f5-6dab-45e9-8574-2183508d0342" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
@@ -204,7 +204,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Successfully complete the exam
 
 --- ---
-
+<a name="Cyb"></a>
 | <strong>Learn Cybersecurity Fundamentals (Security+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/d6f7c8c5-72e5-4baa-87a2-cb84a1f01fa5" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
@@ -216,7 +216,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Successfully complete the exam
 
 --- ---
-
+<a name="P"></a>
 | <strong>Specialize in Penetration Testing (Pentest+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/e8449a34-4a7d-4c8d-864a-8f07e6266109" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
@@ -228,7 +228,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Successfully complete the exam
 
 --- ---
-
+<a name="C"></a>
 | <strong>Enhance Cyber Defense Skills (CySa+)</strong> | <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/36c328c2-1f89-4548-b2d6-d1edb94d47bc" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
@@ -253,10 +253,10 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 There are numerous strategies available for the degree path, and the one outlined below represents my personal roadmap. It's important to consider that the most efficient strategy for achieving the degree with minimal cost involves completing the majority of the coursework outside of WGU, obtaining credits from those courses, and then enrolling when you're between 50-65% done. Assuring you to finish the degree within one term. This approach minimizes expenses and is the optimal choice in terms of both time and money.
 
 #### BSCSIA (Bachelor of Science, Cybersecurity and Information Assurance)
-- [ ] Copy the following Tracking Google Sheet
+- [ ] Copy the following Tracking [Google Sheet](https://docs.google.com/spreadsheets/d/11ohkoSAzkURpy3IcWtuVgH7CEjk_GePfavlB3g0RobA/edit?usp=sharing)
       
   --- BASE COURSES ---
-- Register at sophia learning and complete the following courses
+- Register at [Sophia Learning](https://app.sophia.org/users/new) and complete the following courses.
   - [ ] ENG1002 (SOPH-0030)
   - [ ] PHIL1005 (SOPH-0065)
   - [ ] COMM1002 (SOPH-0024)
@@ -267,22 +267,22 @@ There are numerous strategies available for the degree path, and the one outline
   - [ ] CS1101 (SOPH-0062)
   - [ ] CS1100 (SOPH-0058)
   - [ ] PM1001 (SOPH-0013)
-- Register at Study.com and complete the following course
+- Register at [Study.com](https://study.com/academy/plans.html) and complete the following course.
   - [ ] Political Science 102 (SDCM-0042)
   - [ ] Biology 101L (SDCM-0188)
   - [ ] Computer Science 108 (SDCM-0213)
   - [ ] Computer Science 110 (SDCM-0215) 
 - Other Course (Cheapest and most Effective)
-  - [ ] CS1001 ---> Complete this with Google IT Support
+  - [ ] CS1001 ---> Complete this course with [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
         
   --- Certifications ---
 - Complete the following certifications (You can get more information on each certification by looking at the certification roadmap)
-  - [ ] Comptia A+
-  - [ ] LPI Lunix Essential
-  - [ ] Comptia Net+
-  - [ ] Comptia Sec+
-  - [ ] Comptia CySa+
-  - [ ] Comptia Pentest+
+  - [ ] <a href="#A">Comptia A+</a>
+  - [ ] <a href="#L">LPI Lunix Essential</a>
+  - [ ] <a href="#N">Comptia Net+</a>
+  - [ ] <a href="#Cyb">Comptia Sec+</a>
+  - [ ] <a href="#C">Comptia CySa+</a>
+  - [ ] <a href="#P">Comptia Pentest+</a>
  
 - Transfer your transcripts (High school diploma, Certifications and completed courses at WGU)
   - Need help? Join the unofficial WGU discord
