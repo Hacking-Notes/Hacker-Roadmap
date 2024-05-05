@@ -252,10 +252,10 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 
 There are numerous strategies available for the degree path, and the one outlined below represents my personal roadmap. It's important to consider that the most efficient strategy for achieving the degree with minimal cost involves completing the majority of the coursework outside of WGU, obtaining credits from those courses, and then enrolling when you're between 50-65% done. Assuring you to finish the degree within one term. This approach minimizes expenses and is the optimal choice in terms of both time and money.
 
-#### BSCSIA (Bachelor of Science, Cybersecurity and Information Assurance)
+#### 🎓 Bachelor of Science, Cybersecurity and Information Assurance (BSCSIA)
 - [ ] Copy the following Tracking [Google Sheet](https://docs.google.com/spreadsheets/d/11ohkoSAzkURpy3IcWtuVgH7CEjk_GePfavlB3g0RobA/edit?usp=sharing)
       
-  --- BASE COURSES ---
+--- BASE COURSES ---
 - Register at [Sophia Learning](https://app.sophia.org/users/new) and complete the following courses.
   - [ ] ENG1002 (SOPH-0030)
   - [ ] PHIL1005 (SOPH-0065)
@@ -275,7 +275,7 @@ There are numerous strategies available for the degree path, and the one outline
 - Other Course (Cheapest and most Effective)
   - [ ] CS1001 ---> Complete this course with [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
         
-  --- Certifications ---
+--- CERTIFICATIONS ---
 - Complete the following certifications (You can get more information on each certification by looking at the certification roadmap)
   - [ ] <a href="#A">Comptia A+</a>
   - [ ] <a href="#L">LPI Lunix Essential</a>
@@ -283,15 +283,20 @@ There are numerous strategies available for the degree path, and the one outline
   - [ ] <a href="#Cyb">Comptia Sec+</a>
   - [ ] <a href="#C">Comptia CySa+</a>
   - [ ] <a href="#P">Comptia Pentest+</a>
- 
+
+--- Western Governors University (WGU) ---
+<img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/f2119c55-cd91-4883-8da7-40dd1b294e74" width="200" alt="WGU-Logo">
+  
 - Transfer your transcripts (High school diploma, Certifications and completed courses at WGU)
-  - Need help? Join the unofficial WGU discord
+  - Need help? Join the unofficial [WGU discord](https://discord.com/invite/unwgu)
   
 - [ ] **Enroll in WGU and complete the remaining courses** 
 
-#### MSCSIA
+---
 
-TO COME
+#### 🎓 Master of Science, Cybersecurity and Information Assurance (MSCSIA) ---> TO COME...
+
+<sub><em><strong>PS:</strong>Please note that the path outlined through the WGU roadmap isn't the sole route available. The information provided represents the most optimal path, based on my knowledge, to attain your degree without incurring excessive expenses.</em></sub>
 
 ---
 
