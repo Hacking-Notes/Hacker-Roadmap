@@ -1,10 +1,8 @@
 # Hacker Roadmap (Currently Building)
 
-A detailed plan to become proficient in hacking and penetration testing.
+Are you ready to embark on an electrifying journey into the depths of cybersecurity? Whether you're eyeing a prestigious certification, gearing up for a Bachelor's degree, or simply indulging your insatiable curiosity, this roadmap is your ultimate guide to becoming a true hacking virtuoso. But before we dive into the nitty-gritty, let's set the stage. Are you in it for the thrill, the challenge, or perhaps envisioning a career at the cutting edge of cyber defense? Your motivations will shape the path ahead, so let's chart a course tailored precisely to your aspirations.
 
-To begin, we must establish some key factors. Are you aiming to obtain a certification or a Bachelor's degree in this field, or are you pursuing hacking purely as a hobby? This distinction will influence the specific steps you need to take.
-
-| Roadmap Type | Additiona Information |
+| Roadmap Type | Path Information |
 | ------------ | --------------------- |
 | [Hobbyist Hackers](#Roadmap-for-Hobbyist-Hackers) | Ideal for dipping your toe into the cybersecurity world, mastering basics and honing skills |
 | [Cyber Expressway](#Cyber-Expressway) | Begin cybersecurity journey as quickly as possible, join cybersecurity role in under 10 months |
