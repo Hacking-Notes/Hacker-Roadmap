@@ -1,4 +1,4 @@
-# Hacker Roadmap (Currently Building)
+# Hacker Roadmap
 
 Are you ready to embark on an electrifying journey into the depths of cybersecurity? Whether you're eyeing a prestigious certification, gearing up for a Bachelor's degree, or simply indulging your insatiable curiosity, this roadmap is your ultimate guide to becoming a true hacking virtuoso. But before we dive into the nitty-gritty, let's set the stage. Are you in it for the thrill, the challenge, or perhaps envisioning a career at the cutting edge of cyber defense? Your motivations will shape the path ahead, so let's chart a course tailored precisely to your aspirations.
 
