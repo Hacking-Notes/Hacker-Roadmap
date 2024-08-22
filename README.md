@@ -10,6 +10,8 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 | [Certification Seekers](#Certification-Seekers) | Gain knowledge, invest time for deeper understanding, ideal for advancement in cybersecurity |
 | [Degree Pursuers](#Degree-Pursuers) | Refine skills for optimal cybersecurity training, explore paths & more ---> (GAIN CYBERSECURITY DEGREE) |
 
+<br>
+
 <p align="center">
   <a href="#Roadmap-for-Hobbyist-Hackers">
     <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="24%" />
