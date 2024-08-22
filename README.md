@@ -5,8 +5,8 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 | Roadmap Type | Path Information |
 | ------------ | --------------------- |
 | [Hobbyist Hackers](#Hobbyist-Hackers) | Ideal for dipping your toe into the cybersecurity world, mastering basics and honing skills |
-| [Hobbyist Hackers](#Bug-Bounty-Hunter) | Discover the steps to become a bug bounty hunter and secure your first bounty. | 
 | [Cyber Expressway](#Cyber-Expressway) | Begin cybersecurity journey as quickly as possible, join cybersecurity role in under 10 months |
+| [Bug Bounty Hunter](#Bug-Bounty-Hunter) | Discover the steps to become a bug bounty hunter and secure your first bounty. | 
 | [Certification Seekers](#Certification-Seekers) | Gain knowledge, invest time for deeper understanding, ideal for advancement in cybersecurity |
 | [Degree Pursuers](#Degree-Pursuers) | Refine skills for optimal cybersecurity training, explore paths & more ---> (GAIN CYBERSECURITY DEGREE) |
 
@@ -26,7 +26,7 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 </p>
 
 <a href="#Bug-Bounty-Hunter">
-    <img src="https://github.com/user-attachments/assets/aad7966b-52c5-4be2-912c-ea26e9ed800c" width="100%" />
+    <img src="https://github.com/user-attachments/assets/10e8c935-6e72-46d4-a7d5-ee3d95977dec" width="100%" />
 </a>
 
 <sub><em><strong>PS:</strong> While I offer this content for free, I include some referral links. They let you support the project without any downside for you. Enjoy the content and feel free to share it with your friends!</em></sub>
@@ -113,12 +113,6 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
   - Follow the guidelines provided by each program regarding vulnerability disclosure, severity assessment, and reward eligibility.
   - Continuously monitor the platforms for new programs and updates, as well as feedback on your submissions.
 
-<a name="Bug-Bounty-Hunter"></a>
-
-## Roadmap for Bug Bounty Hunter
-
-TO COME SOON
-
 <a name="Cyber-Expressway"></a>
 ## Roadmap for Cyber Expressway
 
@@ -164,6 +158,12 @@ This certification serves as a gold standard in cybersecurity and often bypasses
 --- ---
 
 Additional perk: Receive assistance with your resume and engage in a conversation with an ethical hacker at no cost or contribute as you wish and donate to a charity of your choosing. Just join the [Discord server](https://discord.gg/r68ameNHrD) and arrange your appointment.
+
+<a name="Bug-Bounty-Hunter"></a>
+
+## Roadmap for Bug Bounty Hunter
+
+COMMING SOON
 
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
