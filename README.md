@@ -168,6 +168,8 @@ Additional perk: Receive assistance with your resume and engage in a conversatio
 
 ## Roadmap for Bug Bounty Hunter
 
+![326617819-6b058744-7c4c-47ee-b1de-ce7a261d67d5 (1) (1)](https://github.com/user-attachments/assets/908694d7-1a2c-4f0c-a614-17d9e48c2301)
+
 COMMING SOON
 
 <a name="Certification-Seekers"></a>
