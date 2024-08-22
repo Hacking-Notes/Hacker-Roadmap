@@ -4,12 +4,13 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 
 | Roadmap Type | Path Information |
 | ------------ | --------------------- |
-| [Hobbyist Hackers](#Roadmap-for-Hobbyist-Hackers) | Ideal for dipping your toe into the cybersecurity world, mastering basics and honing skills |
+| [Hobbyist Hackers](#Hobbyist-Hackers) | Ideal for dipping your toe into the cybersecurity world, mastering basics and honing skills |
+| [Hobbyist Hackers](#Bug-Bounty-Hunter) | Discover the steps to become a bug bounty hunter and secure your first bounty. | 
 | [Cyber Expressway](#Cyber-Expressway) | Begin cybersecurity journey as quickly as possible, join cybersecurity role in under 10 months |
 | [Certification Seekers](#Certification-Seekers) | Gain knowledge, invest time for deeper understanding, ideal for advancement in cybersecurity |
 | [Degree Pursuers](#Degree-Pursuers) | Refine skills for optimal cybersecurity training, explore paths & more ---> (GAIN CYBERSECURITY DEGREE) |
 
-<p float="center">
+<p align="center">
   <a href="#Roadmap-for-Hobbyist-Hackers">
     <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="24%" />
   </a>
@@ -23,6 +24,10 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
     <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="24%" />
   </a>
 </p>
+
+<a href="#Bug-Bounty-Hunter">
+    <img src="https://github.com/user-attachments/assets/aad7966b-52c5-4be2-912c-ea26e9ed800c" width="100%" />
+</a>
 
 <sub><em><strong>PS:</strong> While I offer this content for free, I include some referral links. They let you support the project without any downside for you. Enjoy the content and feel free to share it with your friends!</em></sub>
 
@@ -38,7 +43,7 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 
 - Elevate your bookmarking game with my latest Bookmark Toolkit. Engineered for ethical bookmarking and enhanced web exploration, it delivers customized features for a seamless browsing journey. ---> <a href="https://github.com/Hacking-Notes/Bookmarks">Bookmarks</a>
 
-<a name="Roadmap-for-Hobbyist-Hackers"></a>
+<a name="Hobbyist-Hackers"></a>
 
 ## Roadmap for Hobbyist Hackers
 
@@ -107,6 +112,12 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
   - Ethically report security vulnerabilities you discover in the targets specified by bug bounty programs.
   - Follow the guidelines provided by each program regarding vulnerability disclosure, severity assessment, and reward eligibility.
   - Continuously monitor the platforms for new programs and updates, as well as feedback on your submissions.
+
+<a name="Bug-Bounty-Hunter"></a>
+
+## Roadmap for Bug Bounty Hunter
+
+TO COME SOON
 
 <a name="Cyber-Expressway"></a>
 ## Roadmap for Cyber Expressway
