@@ -25,9 +25,12 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
   </a>
 </p>
 
-<a href="#Bug-Bounty-Hunter">
-    <img src="https://github.com/user-attachments/assets/10e8c935-6e72-46d4-a7d5-ee3d95977dec" width="100%" />
-</a>
+<div align="center">
+  <a href="#Bug-Bounty-Hunter">
+    <img src="https://github.com/user-attachments/assets/10e8c935-6e72-46d4-a7d5-ee3d95977dec" width="80%" />
+  </a>
+</div>
+
 
 <sub><em><strong>PS:</strong> While I offer this content for free, I include some referral links. They let you support the project without any downside for you. Enjoy the content and feel free to share it with your friends!</em></sub>
 
