@@ -172,6 +172,16 @@ Additional perk: Receive assistance with your resume and engage in a conversatio
 
 COMMING SOON
 
+#### Step 1: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
+- **Objective:** Deepen your understanding of web pentesting techniques and tools.
+- **Actions:**
+  - [ ] Explore the courses available on Burp Suite Academy.
+  - [ ] Complete courses covering topics such as:
+    - [ ] Web application security fundamentals
+    - [ ] Using Burp Suite for web pentesting
+    - [ ] Advanced web exploitation techniques
+- **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
+
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
 
