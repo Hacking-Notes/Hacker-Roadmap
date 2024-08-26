@@ -174,7 +174,7 @@ Bug bounty hunting is a constantly evolving field where most participants are co
 
 The roadmap I’ve created is designed to help you build a strong foundation in bug bounty hunting and gradually move on to more profitable programs with higher payouts.
 
-First, let’s discuss the mindset required for successful bug bounty hunting. If you’re entirely new to IT, it’s crucial to first build a solid understanding of basic IT concepts—this will significantly ease your journey. However, if you already have some basic computer skills, I recommend starting with PortSwigger Academy. This platform offers a wide range of modules with practical examples that will enhance your knowledge and skills in web application security.
+First, let’s talk about the mindset needed for successful bug bounty hunting. If you're new to IT, it's essential to start by building a strong foundation in basic IT, web application programming, and fundamental web concepts—this will make your journey much smoother. However, if you already have some basic computer skills, I suggest beginning with PortSwigger Academy. This platform provides a variety of modules with hands-on examples that will deepen your understanding and expertise in web application security.
 
 Before jumping into high-profile programs like Facebook, Google, or GitHub, there are a few important steps you should take. For beginners, I suggest starting with OpenBugBounty—a platform with a low barrier to entry and fewer monetary rewards, making it less crowded by experienced hunters. The goal here isn’t to chase big rewards but to start small, focusing on learning and gradually moving toward programs that offer higher payouts.
 
