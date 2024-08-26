@@ -193,8 +193,9 @@ The overall recommendation is to work through all the labs at PortSwigger Academ
 - **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
 - **Actions:**
   - [ ] Explore the courses available on Burp Suite Academy.
-  - [ ] Explore the following [paths](https://portswigger.net/web-security/learning-paths) and start with what seems to you the most interesting:
+  - [ ] Explore the following [paths](https://portswigger.net/web-security/all-topics) and start with what seems to you the most interesting:
     - [ ] Server-side vulnerabilities
+    - [ ] Cross-site scripting (XSS)
     - [ ] File upload vulnerabilities
     - [ ] Clickjacking (UI redressing)
     - [ ] Path traversal
