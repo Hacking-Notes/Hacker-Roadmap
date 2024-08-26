@@ -170,17 +170,47 @@ Additional perk: Receive assistance with your resume and engage in a conversatio
 
 ![326617819-6b058744-7c4c-47ee-b1de-ce7a261d67d5 (1) (1)](https://github.com/user-attachments/assets/908694d7-1a2c-4f0c-a614-17d9e48c2301)
 
-COMMING SOON
+Bug bounty hunting is a constantly evolving field where most participants are continuously learning and adapting as they progress. There isn’t a specific milestone or achievement that indicates you’re ready to start finding bugs, which can make it challenging for newcomers to navigate, especially without a clear path to follow.
 
-#### Step 1: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
+The roadmap I’ve created is designed to help you build a strong foundation in bug bounty hunting and gradually move on to more profitable programs with higher payouts.
+
+First, let’s discuss the mindset required for successful bug bounty hunting. If you’re entirely new to IT, it’s crucial to first build a solid understanding of basic IT concepts—this will significantly ease your journey. However, if you already have some basic computer skills, I recommend starting with PortSwigger Academy. This platform offers a wide range of modules with practical examples that will enhance your knowledge and skills in web application security.
+
+Before jumping into high-profile programs like Facebook, Google, or GitHub, there are a few important steps you should take. For beginners, I suggest starting with OpenBugBounty—a platform with a low barrier to entry and fewer monetary rewards, making it less crowded by experienced hunters. The goal here isn’t to chase big rewards but to start small, focusing on learning and gradually moving toward programs that offer higher payouts.
+
+Begin by selecting a program that interests you and has a decent number of URLs to explore, preferably with features like login functionality, purchasing options, or search capabilities. It’s important to choose a program you’re passionate about because you’ll be working on it for several months while simultaneously learning from PortSwigger. The key strategy here is to use the labs and resources on PortSwigger to gain new skills and then apply that knowledge directly to the program you’re working on. By sticking with the same program over time, you’ll start to make connections—recognizing patterns and opportunities to apply what you’ve learned.
+
+The overall recommendation is to work through all the labs at PortSwigger Academy and absorb as much information as possible. Once you’ve mastered these and have a strong understanding, you can expand your learning by seeking out new research on platforms like YouTube, experimenting with new techniques, and eventually moving on to larger bug bounty platforms with higher payouts.
+
+#### Step 1: Register on [OpenBugBounty](https://www.openbugbounty.org/)
+- **Objective:** Research a program that you find interesting and have a decent scope (Multiples URLs, and functionalities)
+- **Actions:**
+  - [ ] Explore the available programs inside OpenBugBounty.
+  - [ ] Select a program.
+
+#### Step 2: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
 - **Objective:** Deepen your understanding of web pentesting techniques and tools.
 - **Actions:**
   - [ ] Explore the courses available on Burp Suite Academy.
-  - [ ] Complete courses covering topics such as:
-    - [ ] Web application security fundamentals
-    - [ ] Using Burp Suite for web pentesting
-    - [ ] Advanced web exploitation techniques
+  - [ ] Explore the following [paths](https://portswigger.net/web-security/learning-paths) and start with what seems to you the most interesting:
+    - [ ] Server-side vulnerabilities
+    - [ ] File upload vulnerabilities
+    - [ ] Clickjacking (UI redressing)
+    - [ ] Path traversal
+    - [ ] Server-side request forgery (SSRF) attacks
+    - [ ] Cross-site request forgery (CSRF)
+    - [ ] Cross-origin resource sharing (CORS)
+    - [ ] API testing
+    - [ ] Web cache deception
+    - [ ] SQL injection
+    - [ ] NoSQL injection
+    - [ ] Authentication vulnerabilities
+    - [ ] WebSockets vulnerabilities
 - **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
+
+After completing these steps, you should have a clearer sense of direction for advancing your bug bounty career. I hope this guide helps anyone embarking on this journey.
+
+I also recommend joining this fantastic Discord community focused on bug bounty hunting, where you can share your insights and learn from others as you progress: [Discord](https://discord.gg/bugbounty)
 
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
