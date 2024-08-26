@@ -190,6 +190,7 @@ The overall recommendation is to work through all the labs at PortSwigger Academ
 
 #### Step 2: Enroll in [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
 - **Objective:** Deepen your understanding of web pentesting techniques and tools.
+- **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
 - **Actions:**
   - [ ] Explore the courses available on Burp Suite Academy.
   - [ ] Explore the following [paths](https://portswigger.net/web-security/learning-paths) and start with what seems to you the most interesting:
@@ -207,7 +208,6 @@ The overall recommendation is to work through all the labs at PortSwigger Academ
     - [ ] Authentication vulnerabilities
     - [ ] WebSockets vulnerabilities
     - [ ] ...
-- **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
 
 After completing these steps, you should have a clearer sense of direction for advancing your bug bounty career. I hope this guide helps anyone embarking on this journey.
 
