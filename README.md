@@ -206,6 +206,7 @@ The overall recommendation is to work through all the labs at PortSwigger Academ
     - [ ] NoSQL injection
     - [ ] Authentication vulnerabilities
     - [ ] WebSockets vulnerabilities
+    - [ ] ...
 - **Explanation:** Burp Suite Academy offers comprehensive courses specifically focused on web pentesting, including both theoretical knowledge and practical exercises. This will enhance your ability to identify and exploit vulnerabilities in web applications.
 
 After completing these steps, you should have a clearer sense of direction for advancing your bug bounty career. I hope this guide helps anyone embarking on this journey.
