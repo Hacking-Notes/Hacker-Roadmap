@@ -182,7 +182,7 @@ Before diving into the technical aspects, it's essential to adopt the right mind
 
 Understanding how code works is crucial, though you don’t necessarily need to be an expert coder. What’s more important is knowing how to analyze and manipulate code to find vulnerabilities. While learning to code can enhance your ability to understand and exploit vulnerabilities effectively, the focus should be on understanding the application’s behavior and how to identify potential weaknesses.
 
-Bug bounty hunting is a field with no fixed endpoint of knowledge. New vulnerabilities and techniques are constantly emerging, so continuous learning is vital. Commit to exploring new research, following experts, and engaging with the community to stay updated. Join forums, watch YouTube channels, and participate in discussions to enhance your skills and knowledge regularly.
+Bug bounty hunting is a field with no fixed endpoint of knowledge. New vulnerabilities and techniques are constantly emerging, so continuous learning is vital. Commit to exploring new research, following experts, and engaging with the community to stay updated. Join forums, [discords](https://discord.gg/bugbounty), watch YouTube channels, and participate in discussions to enhance your skills and knowledge regularly.
 
 ### 2. **Building a Strong Foundation**
 
@@ -193,6 +193,15 @@ If you're new to IT, start by building a solid foundation in basic IT and web ap
 - **Web Technologies:** Basics of HTML, JavaScript, CSS, and server-side languages.
 - **Common Vulnerabilities:** Familiarize yourself with the OWASP Top Ten, which covers the most critical security risks to web applications.
 
+You can acquire this knowledge for free on TryHackMe. (Skip this if you already have the foundational skills mentioned.)
+
+**Step 1:** Register on [Tryhackme](https://tryhackme.com/)
+- **Objective:** Get the initial IT and web app knowledge
+- **Actions:** Complete the following courses
+  - [ ] [Complete Beginner](https://tryhackme.com/path/outline/beginner)
+  - [ ] [Web Fundamentals](https://tryhackme.com/path/outline/web)
+  - Feel free to explore additional topics if you wish.
+
 ### 3. **Selecting and Exploring a Bug Bounty Program**
 
 Choosing the right bug bounty program is crucial for your success. Instead of diving into high-profile programs like Facebook or Google right away, it's best to start with platforms that have a lower barrier to entry, such as OpenBugBounty. These platforms are less competitive and provide a better learning environment for beginners.
@@ -202,19 +211,31 @@ When selecting a program, look for one that interests you and has a broad scope,
 It's also important to thoroughly read and understand the program's policies before you begin. Knowing the rules will help you stay within legal boundaries and focus your efforts on areas that are most likely to yield results.
 
 **Step 1:** Register on [OpenBugBounty](https://www.openbugbounty.org/)
-- **Objective:** Research a program that interests you and has a decent scope (multiple URLs and functionalities).
+- **Objective:** Research a program that you find interesting and have a decent scope (Multiples URLs, and functionalities)
 - **Actions:**
-  - Explore the available programs.
-  - Select a program with features like login functionality, purchasing options, or search capabilities, which will give you plenty to explore.
+  - [ ] Explore the available programs inside OpenBugBounty.
+  - [ ] Select a program.
 
 **Step 2:** Enroll in [PortSwigger Academy](https://portswigger.net/web-security/dashboard)
 - **Objective:** Enhance your web pentesting skills.
 - **Actions:**
-  - Work through the courses, starting with topics that interest you, such as:
-    - Server-side vulnerabilities
-    - Cross-site scripting (XSS)
-    - API testing
-    - SQL injection
+  - [ ] Explore the courses available on Burp Suite Academy.
+  - [ ] Explore the following [paths](https://portswigger.net/web-security/all-topics) and start with what seems to you the most interesting:
+    - [ ] Server-side vulnerabilities
+    - [ ] Cross-site scripting (XSS)
+    - [ ] File upload vulnerabilities
+    - [ ] Clickjacking (UI redressing)
+    - [ ] Path traversal
+    - [ ] Server-side request forgery (SSRF) attacks
+    - [ ] Cross-site request forgery (CSRF)
+    - [ ] Cross-origin resource sharing (CORS)
+    - [ ] API testing
+    - [ ] Web cache deception
+    - [ ] SQL injection
+    - [ ] NoSQL injection
+    - [ ] Authentication vulnerabilities
+    - [ ] WebSockets vulnerabilities
+    - [ ] ...
   - Apply what you learn directly to your selected program.
 
 ### 4. **Phases of Bug Bounty Hunting**
@@ -236,7 +257,7 @@ As a beginner, focus on finding the easiest bugs first. These are typically low-
 - **Security Misconfigurations:** Issues like unnecessary services being enabled or default accounts being left active.
 - **Insecure Direct Object References (IDOR):** Accessing unauthorized data by manipulating the input in the URL.
 
-Starting with these easier bugs helps build confidence and hones your skills for tackling more complex vulnerabilities later on.
+Starting with these easier bugs helps build confidence and hone your skills for tackling more complex vulnerabilities later on.
 
 **Progression Roadmap**
 
