@@ -432,12 +432,6 @@ There are numerous strategies available for the degree path, and the one outline
 
 ---
 
-#### 🎓 Master of Science, Cybersecurity and Information Assurance (MSCSIA) ---> TO COME...
-
-<sub><em><strong>PS:</strong>Please note that the path outlined through the WGU roadmap isn't the sole route available. The information provided represents the most optimal path, based on my knowledge, to attain your degree without incurring excessive expenses.</em></sub>
-
----
-
 If you have any questions, suggestions, or issues regarding the roadmap or this repository, feel free to open an issue or reach out to me via Discord.
 
   <a href="https://discord.com">
