@@ -30,7 +30,7 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 
 ## Access My Additional Hacking Resources
 
-[![Hacking-Notes](https://github.com/user-attachments/assets/9e7f6ed9-f59a-4fc7-a616-0c2e8f07f1ba)](https://hacking-notes.com)
+[![Hacking-Notes](https://github.com/user-attachments/assets/b8f1ef0e-b401-4a43-bfd7-4b4d6f589581)](https://hacking-notes.com)
 
 - Explore my Red Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://github.com/Hacking-Notes/Redteam">RedTeam Notes</a>
 
