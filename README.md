@@ -13,10 +13,10 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 <br>
 
 <p float="left">
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="200" href="#Degree-Pursuers" />
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/7f7605e6-256e-4cb0-ab71-99d6b664840d" width="200" /> 
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/220e1644-421d-4476-857d-3d814103fcfc" width="200" />
-  <img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="200" />
+  <a href="#Hobbyist-Hackers"><img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/681ee411-339b-4b1d-b8ca-870845021a86" width="200" href="#Degree-Pursuers" /></a>
+  <a href="#Cyber-Expressway"><img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/7f7605e6-256e-4cb0-ab71-99d6b664840d" width="200" /></a>
+  <a href="#Certification-Seekers"><img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/220e1644-421d-4476-857d-3d814103fcfc" width="200" /></a>
+  <a href="#Degree-Pursuers"><img src="https://github.com/Hacking-Notes/Hacker-Roadmap/assets/118412415/ed0eb023-3ceb-4f42-a306-486bc19faeec" width="200" /></a>
 </p>
 
 <div align="center">
