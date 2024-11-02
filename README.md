@@ -149,7 +149,7 @@ This certification serves as a gold standard in cybersecurity and often bypasses
 --- ---
 
 #### 4. **Search and Find CVE's:**
-"Uncovering vulnerabilities within diverse open-source projects is a rewarding endeavor, and it's not as daunting as one might expect. Including CVE discoveries in your curriculum distinguishes you from peers with similar certifications, demonstrating to future employers your ability to apply learned skills effectively."
+Uncovering vulnerabilities within diverse open-source projects is a rewarding endeavor, and it's not as daunting as one might expect. Including CVE discoveries in your curriculum distinguishes you from peers with similar certifications, demonstrating to future employers your ability to apply learned skills effectively.
 - [ ] View the following video [Tyler Ramsbey - Youtube](https://www.youtube.com/watch?v=2VB4Zd5C8N8)
 
 --- ---
