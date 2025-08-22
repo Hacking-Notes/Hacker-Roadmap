@@ -330,6 +330,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
       - [ ] Study for Comptia Network+
      - Learning ressource
        - Studing: [Professor Messer](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
+       - Labs: [LabEx CompTIA Network+ Labs](https://labex.io/courses/comptia-network-plus-training-labs)
      - [ ] Successfully complete the exam
 
 --- ---
@@ -342,6 +343,7 @@ Certifications in cybersecurity and hacking provide structured learning paths an
      - [ ] Study for Comptia Security+
      - Learning ressource
        - Studing: [Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
+       - Labs: [LabEx CompTIA Security+ Labs](https://labex.io/courses/comptia-security-plus-training-labs)
      - [ ] Successfully complete the exam
 
 --- ---
