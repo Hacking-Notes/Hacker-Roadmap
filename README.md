@@ -1,3 +1,13 @@
+<div align="center">
+
+<kbd>&nbsp;ROADMAP&nbsp;</kbd> &nbsp; <kbd>&nbsp;BEGINNER → PRO&nbsp;</kbd> &nbsp; <kbd>&nbsp;CERTS&nbsp;</kbd> &nbsp; <kbd>&nbsp;BUG BOUNTY&nbsp;</kbd>
+
+[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Blog](https://img.shields.io/badge/BLOG-medium-f5f5f5?style=flat-square&labelColor=000000)](https://hacking-notes.medium.com/)
+[![Discord](https://img.shields.io/badge/DISCORD-join-3388ff?style=flat-square&labelColor=000000)](https://discord.gg/r68ameNHrD)
+
+</div>
+
 # Hacker Roadmap
 
 Are you ready to embark on an electrifying journey into the depths of cybersecurity? Whether you're eyeing a prestigious certification, gearing up for a Bachelor's degree, or simply indulging your insatiable curiosity, this roadmap is your ultimate guide to becoming a true hacking virtuoso. But before we dive into the nitty-gritty, let's set the stage. Are you in it for the thrill, the challenge, or perhaps envisioning a career at the cutting edge of cyber defense? Your motivations will shape the path ahead, so let's chart a course tailored precisely to your aspirations.
@@ -421,3 +431,18 @@ There are numerous strategies available for the degree path, and the one outline
   - Need help? Join the unofficial [WGU discord](https://discord.com/invite/unwgu)
   
 - [ ] **Enroll in WGU and complete the remaining courses** 
+
+<br>
+
+<div align="center">
+
+### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
+[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
+[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
+
+<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+
+</div>
