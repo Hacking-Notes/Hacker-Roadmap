@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-label="Cyber Expressway">
+<title>Cyber Expressway</title>
+<defs>
+  <radialGradient id="g" cx="0.15" cy="0.2" r="0.9">
+    <stop offset="0" stop-color="#00e5ff" stop-opacity="0.18"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<style>
+  .sweep{stroke-dasharray:18 82;animation:sweep 5s linear infinite}
+  @keyframes sweep{to{stroke-dashoffset:-100}}
+  .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.6s ease-out infinite}
+  @keyframes ring{0%{transform:scale(.8);opacity:.9}100%{transform:scale(1.45);opacity:0}}
+  .float{animation:float 3.5s ease-in-out infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="1.5" y="1.5" width="397" height="227" rx="16" fill="#0f1620"/>
+<rect x="1.5" y="1.5" width="397" height="227" rx="16" fill="url(#g)"/>
+<path d="M17.5 1.5 H382.5 A16 16 0 0 1 398.5 17.5 V212.5 A16 16 0 0 1 382.5 228.5 H17.5 A16 16 0 0 1 1.5 212.5 V17.5 A16 16 0 0 1 17.5 1.5 Z" fill="none" stroke="#00e5ff" stroke-opacity="0.22" stroke-width="1.5"/>
+<path class="sweep" d="M17.5 1.5 H382.5 A16 16 0 0 1 398.5 17.5 V212.5 A16 16 0 0 1 382.5 228.5 H17.5 A16 16 0 0 1 1.5 212.5 V17.5 A16 16 0 0 1 17.5 1.5 Z" pathLength="100" fill="none" stroke="#00e5ff" stroke-width="2.5" stroke-linecap="round"/>
+
+<circle class="ring" cx="56" cy="58" r="28" fill="none" stroke="#00e5ff" stroke-width="2"/>
+<circle cx="56" cy="58" r="28" fill="#00e5ff" fill-opacity="0.12" stroke="#00e5ff" stroke-opacity="0.5"/>
+<g class="float"><g transform="translate(56 58)"><g transform="scale(0.72)"><path d="M4 -22 L-12 3 H1 L-4 22 L13 -4 H0 Z" stroke="#00e5ff" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></g></g>
+
+<text x="372" y="48" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#8b98a8">PATH</text>
+<text x="372" y="80" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#00e5ff">02</text>
+
+<text x="28" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#e6edf3">Cyber Expressway</text>
+<text x="28" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#8b98a8"><tspan x="28" dy="0">Fast-track into a cyber</tspan><tspan x="28" dy="22">role in under 10 months.</tspan></text>
+
+<rect x="28" y="184" width="104" height="26" rx="13" fill="#00e5ff" fill-opacity="0.12" stroke="#00e5ff" stroke-opacity="0.5"/>
+<text x="80" y="202" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#00e5ff">~10 MONTHS</text>
+<rect x="316" y="189" width="9" height="8" rx="2" transform="translate(0 0)" fill="#00e5ff"/><rect x="330" y="189" width="9" height="12" rx="2" transform="translate(0 -4)" fill="#00e5ff"/><rect x="344" y="189" width="9" height="16" rx="2" transform="translate(0 -8)" fill="#00e5ff"/><rect x="358" y="189" width="9" height="20" rx="2" transform="translate(0 -12)" fill="#1f2a37"/>
+</svg>

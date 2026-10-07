@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Happy hacking">
+<title>Happy hacking</title>
+<defs>
+  <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#00ff9c"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+  <clipPath id="type"><rect class="typer" x="304" y="60" width="616" height="30"/></clipPath>
+</defs>
+<style>
+  .typer{transform-box:fill-box;transform-origin:left;animation:type 8s steps(57,end) infinite}
+  @keyframes type{0%{transform:scaleX(0)}45%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+  .cursor{animation:cur 8s steps(57,end) infinite,blink 1s step-end infinite}
+  @keyframes cur{0%{transform:translateX(0)}45%,90%{transform:translateX(616px)}100%{transform:translateX(0)}}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="168" rx="16" fill="#0b0f14" stroke="#00ff9c" stroke-opacity="0.25"/>
+<text x="280" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#00ff9c">$</text>
+<g clip-path="url(#type)"><text x="304" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#e6edf3" xml:space="preserve">exit 0  # happy hacking. stay ethical. share the roadmap.</text></g>
+<rect class="cursor" x="306" y="66" width="10" height="22" fill="#00ff9c"/>
+<text x="600.0" y="128" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b98a8">Hacker Roadmap · by <tspan fill="url(#t)" font-weight="700">Hacking-Notes</tspan></text>
+</svg>

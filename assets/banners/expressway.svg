@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Roadmap for Cyber Expressway">
+<title>Roadmap for Cyber Expressway</title>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#00e5ff" stop-opacity="0.10"/><stop offset="0.6" stop-color="#00e5ff" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#00e5ff" fill-opacity="0.18"/>
+  </pattern>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#00e5ff" stop-opacity="0.2"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+  <clipPath id="frame"><rect width="1200" height="260" rx="16"/></clipPath>
+  <clipPath id="type"><rect class="typer" x="78" y="62" width="367" height="28"/></clipPath>
+</defs>
+<style>
+  .typer{transform-box:fill-box;transform-origin:left;animation:type 7s steps(36,end) infinite}
+  @keyframes type{0%{transform:scaleX(0)}35%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+  .cursor{animation:cur 7s steps(36,end) infinite,blink 1s step-end infinite}
+  @keyframes cur{0%{transform:translateX(0)}35%,92%{transform:translateX(367px)}100%{transform:translateX(0)}}
+  @keyframes blink{50%{opacity:0}}
+  .orbit{transform-origin:1040px 140px;animation:spin 14s linear infinite}
+  .orbit2{transform-origin:1040px 140px;animation:spin 9s linear infinite reverse}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .float{animation:float 4s ease-in-out infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  .fill{transform-box:fill-box;transform-origin:left;animation:fill 7s ease-in-out infinite}
+  @keyframes fill{0%{transform:scaleX(0)}60%,100%{transform:scaleX(1)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="260" fill="#0f1620"/>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect x="860" width="340" height="260" fill="url(#dots)"/>
+  <rect width="1200" height="36" fill="#0a1017"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f57"/><circle cx="44" cy="18" r="6" fill="#febc2e"/><circle cx="64" cy="18" r="6" fill="#28c840"/>
+  <text x="600.0" y="23" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b98a8">hacker-roadmap — path/expressway — PATH 02</text>
+
+  <text x="56" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#00e5ff">$</text>
+  <g clip-path="url(#type)"><text x="78" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#e6edf3">./roadmap --path expressway --fast</text></g>
+  <rect class="cursor" x="80" y="66" width="10" height="21" fill="#00e5ff"/>
+
+  <g>
+    <text x="54" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#e6edf3">Roadmap for <tspan fill="#00e5ff">Cyber Expressway</tspan></text>
+    <text x="56" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#8b98a8">The quickest realistic route to a pentesting job.</text>
+  </g>
+  <rect x="56" y="196" width="122" height="28" rx="6" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.4"/><text x="117" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#00e5ff">4 MILESTONES</text><rect x="190" y="196" width="83" height="28" rx="6" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.4"/><text x="231" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#00e5ff">INTENSE</text><rect x="284" y="196" width="153" height="28" rx="6" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.4"/><text x="361" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#00e5ff">TCM · HTB · OSCP</text>
+
+  <g class="orbit"><circle cx="1040" cy="140" r="78" fill="none" stroke="#00e5ff" stroke-opacity="0.35" stroke-dasharray="4 10"/><circle cx="1118" cy="140" r="5" fill="#00e5ff"/></g>
+  <g class="orbit2"><circle cx="1040" cy="140" r="58" fill="none" stroke="#00e5ff" stroke-opacity="0.25"/><circle cx="982" cy="140" r="3.5" fill="#00e5ff"/></g>
+  <circle cx="1040" cy="140" r="42" fill="#00e5ff" fill-opacity="0.12" stroke="#00e5ff" stroke-opacity="0.6"/>
+  <g class="float"><g transform="translate(1040 140)"><g transform="scale(1.05)"><path d="M4 -22 L-12 3 H1 L-4 22 L13 -4 H0 Z" stroke="#00e5ff" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></g></g>
+
+  <rect x="0" y="256" width="1200" height="4" fill="#1f2a37"/>
+  <rect class="fill" x="0" y="256" width="1200" height="4" fill="url(#bar)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="16" fill="none" stroke="#00e5ff" stroke-opacity="0.3"/>
+</g>
+</svg>
