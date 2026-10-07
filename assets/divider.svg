@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#059669" stop-opacity="0"/><stop offset="0.5" stop-color="#0891b2"/><stop offset="1" stop-color="#059669" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .pulse{animation:move 4s ease-in-out infinite}
+  @keyframes move{0%{transform:translateX(-240px)}100%{transform:translateX(1200px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<path d="M0 12 H1200" stroke="#d0d7de" stroke-width="2"/>
+<rect class="pulse" x="0" y="10" width="240" height="4" rx="2" fill="url(#p)"/>
+<g fill="#059669"><rect x="596.0" y="8" width="8" height="8" transform="rotate(45 600.0 12)"/></g>
+</svg>
