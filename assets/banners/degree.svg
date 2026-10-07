@@ -2,12 +2,12 @@
 <title>Roadmap for Degree Pursuers</title>
 <defs>
   <linearGradient id="bg" x1="0" x2="1">
-    <stop offset="0" stop-color="#ff5fa8" stop-opacity="0.10"/><stop offset="0.6" stop-color="#ff5fa8" stop-opacity="0"/>
+    <stop offset="0" stop-color="#db2777" stop-opacity="0.10"/><stop offset="0.6" stop-color="#db2777" stop-opacity="0"/>
   </linearGradient>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-    <circle cx="2" cy="2" r="1.2" fill="#ff5fa8" fill-opacity="0.18"/>
+    <circle cx="2" cy="2" r="1.2" fill="#db2777" fill-opacity="0.18"/>
   </pattern>
-  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#ff5fa8" stop-opacity="0.2"/><stop offset="1" stop-color="#ff5fa8"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#db2777" stop-opacity="0.2"/><stop offset="1" stop-color="#db2777"/></linearGradient>
   <clipPath id="frame"><rect width="1200" height="260" rx="16"/></clipPath>
   <clipPath id="type"><rect class="typer" x="78" y="62" width="337" height="28"/></clipPath>
 </defs>
@@ -27,30 +27,30 @@
   @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
 <g clip-path="url(#frame)">
-  <rect width="1200" height="260" fill="#0f1620"/>
+  <rect width="1200" height="260" fill="#ffffff"/>
   <rect width="1200" height="260" fill="url(#bg)"/>
   <rect x="860" width="340" height="260" fill="url(#dots)"/>
-  <rect width="1200" height="36" fill="#0a1017"/>
+  <rect width="1200" height="36" fill="#f6f8fa"/>
   <circle cx="24" cy="18" r="6" fill="#ff5f57"/><circle cx="44" cy="18" r="6" fill="#febc2e"/><circle cx="64" cy="18" r="6" fill="#28c840"/>
-  <text x="600.0" y="23" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b98a8">hacker-roadmap — path/degree — PATH 05</text>
+  <text x="600.0" y="23" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e">hacker-roadmap — path/degree — PATH 05</text>
 
-  <text x="56" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#ff5fa8">$</text>
-  <g clip-path="url(#type)"><text x="78" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#e6edf3">./roadmap --path degree --cheap</text></g>
-  <rect class="cursor" x="80" y="66" width="10" height="21" fill="#ff5fa8"/>
+  <text x="56" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#db2777">$</text>
+  <g clip-path="url(#type)"><text x="78" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#1f2328">./roadmap --path degree --cheap</text></g>
+  <rect class="cursor" x="80" y="66" width="10" height="21" fill="#db2777"/>
 
   <g>
-    <text x="54" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#e6edf3">Roadmap for <tspan fill="#ff5fa8">Degree Pursuers</tspan></text>
-    <text x="56" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#8b98a8">Stack transfer credits, then finish the BSCSIA in a single term.</text>
+    <text x="54" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#1f2328">Roadmap for <tspan fill="#db2777">Degree Pursuers</tspan></text>
+    <text x="56" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#59636e">Stack transfer credits, then finish the BSCSIA in a single term.</text>
   </g>
-  <rect x="56" y="196" width="90" height="28" rx="6" fill="#ff5fa8" fill-opacity="0.10" stroke="#ff5fa8" stroke-opacity="0.4"/><text x="101" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#ff5fa8">3 PHASES</text><rect x="158" y="196" width="98" height="28" rx="6" fill="#ff5fa8" fill-opacity="0.10" stroke="#ff5fa8" stroke-opacity="0.4"/><text x="208" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#ff5fa8">LONG GAME</text><rect x="269" y="196" width="215" height="28" rx="6" fill="#ff5fa8" fill-opacity="0.10" stroke="#ff5fa8" stroke-opacity="0.4"/><text x="376" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#ff5fa8">SOPHIA · STUDY.COM · WGU</text>
+  <rect x="56" y="196" width="90" height="28" rx="6" fill="#db2777" fill-opacity="0.10" stroke="#db2777" stroke-opacity="0.4"/><text x="101" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#db2777">3 PHASES</text><rect x="158" y="196" width="98" height="28" rx="6" fill="#db2777" fill-opacity="0.10" stroke="#db2777" stroke-opacity="0.4"/><text x="208" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#db2777">LONG GAME</text><rect x="269" y="196" width="215" height="28" rx="6" fill="#db2777" fill-opacity="0.10" stroke="#db2777" stroke-opacity="0.4"/><text x="376" y="215" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#db2777">SOPHIA · STUDY.COM · WGU</text>
 
-  <g class="orbit"><circle cx="1040" cy="140" r="78" fill="none" stroke="#ff5fa8" stroke-opacity="0.35" stroke-dasharray="4 10"/><circle cx="1118" cy="140" r="5" fill="#ff5fa8"/></g>
-  <g class="orbit2"><circle cx="1040" cy="140" r="58" fill="none" stroke="#ff5fa8" stroke-opacity="0.25"/><circle cx="982" cy="140" r="3.5" fill="#ff5fa8"/></g>
-  <circle cx="1040" cy="140" r="42" fill="#ff5fa8" fill-opacity="0.12" stroke="#ff5fa8" stroke-opacity="0.6"/>
-  <g class="float"><g transform="translate(1040 140)"><g transform="scale(1.05)"><path d="M0 -16 L25 -5 L0 6 L-25 -5 Z" stroke="#ff5fa8" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M-14 0 V11 C-14 17 14 17 14 11 V0" stroke="#ff5fa8" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M25 -5 V10" stroke="#ff5fa8" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="25" cy="13" r="2.5" fill="#ff5fa8"/></g></g></g>
+  <g class="orbit"><circle cx="1040" cy="140" r="78" fill="none" stroke="#db2777" stroke-opacity="0.35" stroke-dasharray="4 10"/><circle cx="1118" cy="140" r="5" fill="#db2777"/></g>
+  <g class="orbit2"><circle cx="1040" cy="140" r="58" fill="none" stroke="#db2777" stroke-opacity="0.25"/><circle cx="982" cy="140" r="3.5" fill="#db2777"/></g>
+  <circle cx="1040" cy="140" r="42" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-opacity="0.6"/>
+  <g class="float"><g transform="translate(1040 140)"><g transform="scale(1.05)"><path d="M0 -16 L25 -5 L0 6 L-25 -5 Z" stroke="#db2777" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M-14 0 V11 C-14 17 14 17 14 11 V0" stroke="#db2777" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M25 -5 V10" stroke="#db2777" stroke-width="3.05" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="25" cy="13" r="2.5" fill="#db2777"/></g></g></g>
 
-  <rect x="0" y="256" width="1200" height="4" fill="#1f2a37"/>
+  <rect x="0" y="256" width="1200" height="4" fill="#d0d7de"/>
   <rect class="fill" x="0" y="256" width="1200" height="4" fill="url(#bar)"/>
-  <rect x="1" y="1" width="1198" height="258" rx="16" fill="none" stroke="#ff5fa8" stroke-opacity="0.3"/>
+  <rect x="1" y="1" width="1198" height="258" rx="16" fill="none" stroke="#db2777" stroke-opacity="0.3"/>
 </g>
 </svg>

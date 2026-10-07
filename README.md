@@ -6,10 +6,10 @@
 
 <br />
 
-<a href="https://github.com/Hacking-Notes/Hacker-Roadmap/stargazers"><img src="https://img.shields.io/github/stars/Hacking-Notes/Hacker-Roadmap?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0b0f14&color=00ff9c" alt="Stars" /></a>
-<a href="https://github.com/Hacking-Notes/Hacker-Roadmap/network/members"><img src="https://img.shields.io/github/forks/Hacking-Notes/Hacker-Roadmap?style=for-the-badge&logo=git&logoColor=white&label=Forks&labelColor=0b0f14&color=00e5ff" alt="Forks" /></a>
-<a href="https://github.com/Hacking-Notes/Hacker-Roadmap/commits"><img src="https://img.shields.io/github/last-commit/Hacking-Notes/Hacker-Roadmap?style=for-the-badge&label=Updated&labelColor=0b0f14&color=b07cff" alt="Last commit" /></a>
-<a href="https://hacking-notes.com"><img src="https://img.shields.io/badge/More-hacking--notes.com-ff5fa8?style=for-the-badge&labelColor=0b0f14" alt="hacking-notes.com" /></a>
+<a href="https://github.com/Hacking-Notes/Hacker-Roadmap/stargazers"><img src="https://img.shields.io/github/stars/Hacking-Notes/Hacker-Roadmap?style=for-the-badge&logo=github&logoColor=1f2328&label=Stars&labelColor=f6f8fa&color=059669" alt="Stars" /></a>
+<a href="https://github.com/Hacking-Notes/Hacker-Roadmap/network/members"><img src="https://img.shields.io/github/forks/Hacking-Notes/Hacker-Roadmap?style=for-the-badge&logo=git&logoColor=1f2328&label=Forks&labelColor=f6f8fa&color=0284c7" alt="Forks" /></a>
+<a href="https://github.com/Hacking-Notes/Hacker-Roadmap/commits"><img src="https://img.shields.io/github/last-commit/Hacking-Notes/Hacker-Roadmap?style=for-the-badge&label=Updated&labelColor=f6f8fa&color=7c3aed" alt="Last commit" /></a>
+<a href="https://hacking-notes.com"><img src="https://img.shields.io/badge/More-hacking--notes.com-db2777?style=for-the-badge&labelColor=f6f8fa" alt="hacking-notes.com" /></a>
 
 <h3>📣 Share the roadmap</h3>
 

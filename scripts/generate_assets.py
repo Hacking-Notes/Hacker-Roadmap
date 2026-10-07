@@ -18,20 +18,22 @@ ASSETS = ROOT / "assets"
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
 SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 
-BG = "#0b0f14"
-PANEL = "#0f1620"
-LINE = "#1f2a37"
-TEXT = "#e6edf3"
-MUTED = "#8b98a8"
-GREEN = "#00ff9c"
-CYAN = "#00e5ff"
-MAGENTA = "#ff2bd6"
+BG = "#ffffff"
+PANEL = "#ffffff"
+LINE = "#d0d7de"
+TEXT = "#1f2328"
+MUTED = "#59636e"
+GREEN = "#059669"
+CYAN = "#0891b2"
+MAGENTA = "#db2777"
+PURPLE = "#7c3aed"
+BAR = "#f6f8fa"
 
 REDUCED_MOTION = "@media (prefers-reduced-motion: reduce){*{animation:none!important}}"
 
 PATHS = [
     {
-        "key": "hobbyist", "num": "01", "title": "Hobbyist Hackers", "color": "#00ff9c",
+        "key": "hobbyist", "num": "01", "title": "Hobbyist Hackers", "color": "#059669",
         "icon": "terminal", "tag": ["Learn the basics and hack", "for the thrill of it."],
         "pill": "SELF-PACED", "level": 1,
         "cmd": "./roadmap --path hobbyist",
@@ -40,7 +42,7 @@ PATHS = [
         "flow": ["TryHackMe", "PortSwigger", "Hack The Box", "Keep Learning", "CTF / Bounty"],
     },
     {
-        "key": "expressway", "num": "02", "title": "Cyber Expressway", "color": "#00e5ff",
+        "key": "expressway", "num": "02", "title": "Cyber Expressway", "color": "#0284c7",
         "icon": "bolt", "tag": ["Fast-track into a cyber", "role in under 10 months."],
         "pill": "~10 MONTHS", "level": 3,
         "cmd": "./roadmap --path expressway --fast",
@@ -48,7 +50,7 @@ PATHS = [
         "chips": ["4 MILESTONES", "INTENSE", "TCM · HTB · OSCP"],
     },
     {
-        "key": "bugbounty", "num": "03", "title": "Bug Bounty Hunter", "color": "#ffb020",
+        "key": "bugbounty", "num": "03", "title": "Bug Bounty Hunter", "color": "#d97706",
         "icon": "bug", "tag": ["Build the mindset and land", "your very first bounty."],
         "pill": "ONGOING", "level": 2,
         "cmd": "./roadmap --path bug-bounty",
@@ -57,7 +59,7 @@ PATHS = [
         "flow": ["Recon", "Scanning", "Exploitation", "Reporting"],
     },
     {
-        "key": "certification", "num": "04", "title": "Certification Seekers", "color": "#b07cff",
+        "key": "certification", "num": "04", "title": "Certification Seekers", "color": "#7c3aed",
         "icon": "medal", "tag": ["Structured, validated skills", "from A+ all the way to OSCP."],
         "pill": "CERT BY CERT", "level": 3,
         "cmd": "./roadmap --path certifications",
@@ -66,7 +68,7 @@ PATHS = [
         "flow": ["A+", "Linux Ess.", "Network+", "Security+", "PenTest+", "CySA+", "OSCP"],
     },
     {
-        "key": "degree", "num": "05", "title": "Degree Pursuers", "color": "#ff5fa8",
+        "key": "degree", "num": "05", "title": "Degree Pursuers", "color": "#db2777",
         "icon": "cap", "tag": ["Earn a B.S. in Cybersecurity", "for a fraction of the cost."],
         "pill": "~1 WGU TERM", "level": 4,
         "cmd": "./roadmap --path degree --cheap",
@@ -132,7 +134,7 @@ def header():
         delay = -rnd.uniform(0, dur)
         tspans = "".join(f'<tspan x="{x}" dy="19">{c}</tspan>' for c in chars)
         rain.append(f'<text class="rain" style="animation-duration:{dur:.1f}s;animation-delay:{delay:.1f}s" '
-                    f'opacity="{rnd.uniform(0.10, 0.35):.2f}">{tspans}</text>')
+                    f'opacity="{rnd.uniform(0.06, 0.18):.2f}">{tspans}</text>')
 
     title = "HACKER ROADMAP"
     subtitle = "> choose your path. learn. hack. get hired."
@@ -159,16 +161,16 @@ def header():
 <title>Hacker Roadmap</title>
 <defs>
   <linearGradient id="title" x1="0" x2="1" y1="0" y2="0">
-    <stop offset="0" stop-color="{GREEN}"/><stop offset="0.5" stop-color="{CYAN}"/><stop offset="1" stop-color="#b07cff"/>
+    <stop offset="0" stop-color="{GREEN}"/><stop offset="0.5" stop-color="{CYAN}"/><stop offset="1" stop-color="{PURPLE}"/>
   </linearGradient>
   <radialGradient id="glow" cx="0.5" cy="0.45" r="0.6">
-    <stop offset="0" stop-color="{GREEN}" stop-opacity="0.16"/><stop offset="1" stop-color="{GREEN}" stop-opacity="0"/>
+    <stop offset="0" stop-color="{GREEN}" stop-opacity="0.10"/><stop offset="1" stop-color="{GREEN}" stop-opacity="0"/>
   </radialGradient>
   <linearGradient id="scan" x1="0" x2="0" y1="0" y2="1">
     <stop offset="0" stop-color="{GREEN}" stop-opacity="0"/><stop offset="0.5" stop-color="{GREEN}" stop-opacity="0.10"/><stop offset="1" stop-color="{GREEN}" stop-opacity="0"/>
   </linearGradient>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M40 0 H0 V40" fill="none" stroke="{GREEN}" stroke-opacity="0.07" stroke-width="1"/>
+    <path d="M40 0 H0 V40" fill="none" stroke="{GREEN}" stroke-opacity="0.10" stroke-width="1"/>
     <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="0 40" dur="4s" repeatCount="indefinite"/>
   </pattern>
   <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1">
@@ -325,7 +327,7 @@ def banner(p):
   <rect width="{W}" height="{H}" fill="{PANEL}"/>
   <rect width="{W}" height="{H}" fill="url(#bg)"/>
   <rect x="860" width="340" height="{H}" fill="url(#dots)"/>
-  <rect width="{W}" height="36" fill="#0a1017"/>
+  <rect width="{W}" height="36" fill="{BAR}"/>
   <circle cx="24" cy="18" r="6" fill="#ff5f57"/><circle cx="44" cy="18" r="6" fill="#febc2e"/><circle cx="64" cy="18" r="6" fill="#28c840"/>
   <text x="{W / 2}" y="23" text-anchor="middle" font-family="{MONO}" font-size="13" fill="{MUTED}">hacker-roadmap — path/{p['key']} — PATH {p['num']}</text>
 

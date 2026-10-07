@@ -2,7 +2,7 @@
 <title>Certification Seekers</title>
 <defs>
   <radialGradient id="g" cx="0.15" cy="0.2" r="0.9">
-    <stop offset="0" stop-color="#b07cff" stop-opacity="0.18"/><stop offset="1" stop-color="#b07cff" stop-opacity="0"/>
+    <stop offset="0" stop-color="#7c3aed" stop-opacity="0.18"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
   </radialGradient>
 </defs>
 <style>
@@ -14,22 +14,22 @@
   @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
   @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
-<rect x="1.5" y="1.5" width="397" height="227" rx="16" fill="#0f1620"/>
+<rect x="1.5" y="1.5" width="397" height="227" rx="16" fill="#ffffff"/>
 <rect x="1.5" y="1.5" width="397" height="227" rx="16" fill="url(#g)"/>
-<path d="M17.5 1.5 H382.5 A16 16 0 0 1 398.5 17.5 V212.5 A16 16 0 0 1 382.5 228.5 H17.5 A16 16 0 0 1 1.5 212.5 V17.5 A16 16 0 0 1 17.5 1.5 Z" fill="none" stroke="#b07cff" stroke-opacity="0.22" stroke-width="1.5"/>
-<path class="sweep" d="M17.5 1.5 H382.5 A16 16 0 0 1 398.5 17.5 V212.5 A16 16 0 0 1 382.5 228.5 H17.5 A16 16 0 0 1 1.5 212.5 V17.5 A16 16 0 0 1 17.5 1.5 Z" pathLength="100" fill="none" stroke="#b07cff" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M17.5 1.5 H382.5 A16 16 0 0 1 398.5 17.5 V212.5 A16 16 0 0 1 382.5 228.5 H17.5 A16 16 0 0 1 1.5 212.5 V17.5 A16 16 0 0 1 17.5 1.5 Z" fill="none" stroke="#7c3aed" stroke-opacity="0.22" stroke-width="1.5"/>
+<path class="sweep" d="M17.5 1.5 H382.5 A16 16 0 0 1 398.5 17.5 V212.5 A16 16 0 0 1 382.5 228.5 H17.5 A16 16 0 0 1 1.5 212.5 V17.5 A16 16 0 0 1 17.5 1.5 Z" pathLength="100" fill="none" stroke="#7c3aed" stroke-width="2.5" stroke-linecap="round"/>
 
-<circle class="ring" cx="56" cy="58" r="28" fill="none" stroke="#b07cff" stroke-width="2"/>
-<circle cx="56" cy="58" r="28" fill="#b07cff" fill-opacity="0.12" stroke="#b07cff" stroke-opacity="0.5"/>
-<g class="float"><g transform="translate(56 58)"><g transform="scale(0.72)"><path d="M-10 -22 L-4 -6 M10 -22 L4 -6" stroke="#b07cff" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="0" cy="7" r="14" stroke="#b07cff" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -1 L2.6 4.4 L8.5 5.2 L4.2 9.3 L5.3 15.2 L0 12.4 L-5.3 15.2 L-4.2 9.3 L-8.5 5.2 L-2.6 4.4 Z" stroke="#b07cff" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></g></g>
+<circle class="ring" cx="56" cy="58" r="28" fill="none" stroke="#7c3aed" stroke-width="2"/>
+<circle cx="56" cy="58" r="28" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.5"/>
+<g class="float"><g transform="translate(56 58)"><g transform="scale(0.72)"><path d="M-10 -22 L-4 -6 M10 -22 L4 -6" stroke="#7c3aed" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="0" cy="7" r="14" stroke="#7c3aed" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -1 L2.6 4.4 L8.5 5.2 L4.2 9.3 L5.3 15.2 L0 12.4 L-5.3 15.2 L-4.2 9.3 L-8.5 5.2 L-2.6 4.4 Z" stroke="#7c3aed" stroke-width="4.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></g></g>
 
-<text x="372" y="48" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#8b98a8">PATH</text>
-<text x="372" y="80" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#b07cff">04</text>
+<text x="372" y="48" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#59636e">PATH</text>
+<text x="372" y="80" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#7c3aed">04</text>
 
-<text x="28" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#e6edf3">Certification Seekers</text>
-<text x="28" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#8b98a8"><tspan x="28" dy="0">Structured, validated skills</tspan><tspan x="28" dy="22">from A+ all the way to OSCP.</tspan></text>
+<text x="28" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#1f2328">Certification Seekers</text>
+<text x="28" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#59636e"><tspan x="28" dy="0">Structured, validated skills</tspan><tspan x="28" dy="22">from A+ all the way to OSCP.</tspan></text>
 
-<rect x="28" y="184" width="120" height="26" rx="13" fill="#b07cff" fill-opacity="0.12" stroke="#b07cff" stroke-opacity="0.5"/>
-<text x="88" y="202" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#b07cff">CERT BY CERT</text>
-<rect x="316" y="189" width="9" height="8" rx="2" transform="translate(0 0)" fill="#b07cff"/><rect x="330" y="189" width="9" height="12" rx="2" transform="translate(0 -4)" fill="#b07cff"/><rect x="344" y="189" width="9" height="16" rx="2" transform="translate(0 -8)" fill="#b07cff"/><rect x="358" y="189" width="9" height="20" rx="2" transform="translate(0 -12)" fill="#1f2a37"/>
+<rect x="28" y="184" width="120" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.5"/>
+<text x="88" y="202" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#7c3aed">CERT BY CERT</text>
+<rect x="316" y="189" width="9" height="8" rx="2" transform="translate(0 0)" fill="#7c3aed"/><rect x="330" y="189" width="9" height="12" rx="2" transform="translate(0 -4)" fill="#7c3aed"/><rect x="344" y="189" width="9" height="16" rx="2" transform="translate(0 -8)" fill="#7c3aed"/><rect x="358" y="189" width="9" height="20" rx="2" transform="translate(0 -12)" fill="#d0d7de"/>
 </svg>
