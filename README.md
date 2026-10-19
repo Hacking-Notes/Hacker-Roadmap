@@ -340,10 +340,12 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 **CompTIA A+ Certification:** This certification covers foundational IT skills, including hardware, software, networking, and troubleshooting.
 - [ ] Purchase CompTIA A+ voucher (2X, core 1 & core 2) ➜ [Discount Website](https://getcertified4less.com/search.php?search_query=a%2B)
 - [ ] Study for CompTIA A+ Core 1
-  - 📚 Studying: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
+  - 📚 Studying: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/)
+  - 🧪 Practicing: [Free A+ Core 1 PBQs](https://www.examwizardz.app/pbq-practice/comptia-a-plus-core-1)
 - [ ] Successfully complete the exam (A+ Core 1)
 - [ ] Study for CompTIA A+ Core 2
-  - 📚 Studying: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
+  - 📚 Studying: [Professor Messer](https://www.professormesser.com/free-a-plus-training/220-1202/220-1202-video/220-1202-training-course/)
+  - 🧪 Practicing: [Free A+ Core 2 PBQs](https://www.examwizardz.app/pbq-practice/comptia-a-plus-core-2)
 - [ ] Successfully complete the exam (A+ Core 2)
 
 <a name="L"></a>
